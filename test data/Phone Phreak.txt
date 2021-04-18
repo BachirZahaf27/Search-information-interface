@@ -1,0 +1,101 @@
+from Peninsula Times Tribune Saturday Juanuary 25, 1986
+
+>-= 'Phone Phreak' Eyes Computers =-<
+By John Raess
+
+  If historians should ever trace the history of electronic outlawry jown as
+computer hacking, they probably will draw a line under the name of John T.
+Draper.  Also known as "Cap'n Crunch" the 42-year-old draper was a leagandary
+figure in the electronics subculrture of Silicon Valley before it became famous.
+
+  He also had a small following amound the security people at the Pacific
+Telephone Co., but they weren't admirers.  For a handful of years in the late
+1960's and 70's Draper scampered through the telephone system like a rat in a
+garbage bin.  Akthought not the first he was argubuly the most famous user - the
+phone company would say abuser - of el ectronic devices that tricked telephones
+into giving him free calls.  His notoriety, curiousity and a notable laxity
+concerning communications law got him three criminal convictions for mousing
+around in the telephone system.
+
+  The past 15 years have seen Draper move from electronics engineer to disc
+jokey to counterculture telephone guerrilla to federal prisoner to computer
+programmer.  Once again he is at the cutting edge of homegrown electronics
+society, legitmately this time, writing computer programs in his cluttered
+one-bedroom apartment.
+
+  Fifteen years ago Draper was a disc jockey and an engineer at a Cupertine
+radio station.	Then he got the call that changed his life.  It was from a blind
+San Jose teen-ager who began telling him about flukes in the telephone system.
+"Phone freaks," as they called themselvces could take advantage of certain
+toll-free numbers and open conference curcuits.  It wasn't too much later that
+Draper earned his nickname.
+
+  He discovered that a free whistle in boxes of Cp'n Crunch cereal could
+approxmiate the pitch of code tones for the telephone.	Blow the right tones,
+and phone calls were free.  One thing led to another and Draper soon was making
+"blue boxes," elecronic gadgets that could fool telephones out of free calls.
+[the press sure does have a lot to learn about Blue Boxes!  -ed]
+
+  Living in Mountain View and working as a disc jockey at the time Draper said
+he was one of a small handful of electronics hobbeyists who viewed the telephone
+systems as a vast, uncharted wilderness.
+
+  "I treated it as a system I was mapping and exploring, and any calls I made
+personally, I paid for.  But any calls I made while phone freaking, that was
+part of the hacking, that was different," Draper said recently.
+
+  Phone Company officials failed to see the distinction.  Draper was arrested
+and convicted in 1972 of violations of ferderal communications law and placed on
+probation.  He was not the first phone phreaker to get arrested but probably the
+most celebrated.  At the time, it was an attractive image:  a b rillian 1960's
+anti-hero fighting a gigantic and pervasive bureaucracy.  In 1976 he was
+conviceted again of a similair offense and this time he was sent to jail for
+four months.
+
+  He said it was the hard stance taken by telephone comapny officials and
+prosecutors that took telephone tinkering out of its circle of faddists and made
+it and underground hit with the criminal set.
+
+  "They should have patched up the (telephone) system, instead of making an
+example of me," he said, "waht eyh didn't count on was that by birtue of putting
+me in jail, they made thousands of Cap'n Crunches all over the world.
+
+  "Once I got in I started telling everybody in jail what I knew.  And those
+were the people who were really, really intersted in making free callss.
+
+  "Because of that, it increased phone freaking by a magnitude of 100.  No
+longer did you have a select few doing it.  You had all these Mafia people
+setting up massive rip-offs."
+
+  Once out of jail his fascination with the phone system continued.  Fascination
+later became obseession and led to his third and final arrest.	Sometimes in the
+mid-1970's Draper said, he became aware of a secret telephone circuit, one with
+sinister implications.	[getting good, huh?] Other phone phreakers demonstrated
+to him that they could tap in - un detected - on any telephone conversation they
+wanted, he said.
+
+  He said, "you could be anywhere in the world and listen to any conversation
+anywhere."
+
+  "It was ued on me and it was demonstrated to me.  I spent the next two years
+seartching for it.  I was obsessed with trying to find it."
+
+  The search got him his third conviction, for which he sepent four months in a
+Pennsylvania jail [hint!  -ed.]
+
+  It also earned him a three-day visit to testify before a federal grand jury in
+Des Moines, Iowa in 1979 [hint #2 - ed.]
+
+  They asked me questions about (the secret circuit's) existence.  Do I think it
+existed?  Yes.	I don't know if it still exists," he said.
+
+  The investigation went to further than the federal grand jury(!).
+
+  Roxanne Conlin, former U.S.  attorney and now in private practice said no
+indictments arose from the investigation of the mysterious telephone circuit.
+But the grand jury emembers were charmed by Draper who gave the impression of a
+likeable but "erratic genius."
+
+  [the article goes on about his currect suit against the company that published
+  one of his programs.]
+                          

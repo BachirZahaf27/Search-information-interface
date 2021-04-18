@@ -1,0 +1,82 @@
+
+
+------------------------------------------------------------
+                  Computer Hackers Beware!
+------------------------------------------------------------
+         Senate Passes Computer Fraud And Abuse Act
+------------------------------------------------------------
+
+
+
+    The Senate October 2 unanimously passed the Computer
+Fraud and Abuse Act of 1986.  The bill, s. 2281, imposes
+fines of up to $500,000 and/or prison terms of up to 20
+years for breaking into government or financial
+institutions' computers.
+
+    The Federal Government alone operates more than 18,000
+medium-scale and large-scale computers at some 4,500
+different sites. the Office of Technology Assessment
+estimates the government's investment in computers over the
+past four years at roughly $60 million. The General Services
+Administration estimates that there will be 250,000 to
+500,000 computers in use by the Federal Government by 1990.
+
+    In 1984, Legislators' attention to and concern about
+computer fraud was heightened by a report by the American
+Bar Association task force on computer crime. According to
+the report, based on a survey of 1,000 private organizations
+and public agencies, percent of the 283 respondents had been
+victimized by some form of computer crime, and more than 25
+percent had sustained financial losses totaling between an
+estimated $145 million and $730 million during one twelve-
+month period.
+
+    To address this problem, the Senate and House enacted,
+in 1984, the first computer statute (18 u.s.c. 1030). Early
+this year both the House and Senate introduced legislation
+to expand and amend this statute.
+
+    In the current bill, which is expected to be signed by
+President Reagan next week, penalties will be imposed on
+anyone who knowingly or intentionally accesses a computer
+without authorization, or exceeds authorized access and:
+
+    (1) Obtains from government computers information
+        relating to national defense and foreign relations.
+
+    (2) Obtains information contained in financial records
+        of financial institutions.
+
+    (3) Affects the use of the government's operation of a
+        computer in any department or agency of the
+        government that is exclusively for the use of the
+        U.S. Government.
+
+    (4) Obtains anything of value, unless the object of the
+        fraud and the thing obtained consists only of the
+        use of the computer.
+
+    (5) Alters, Damages, or Destroys Information in any
+        federal interest computer, or prevents authorized
+        use of any such computer or information.
+
+    Under the bill, a person would be guilty of computer
+fraud if he or she causes a loss of $1,000 or more during
+any one year period.
+
+    Depending on the offense, penalties include fines up to
+$100,000 for a misdemeanor, $250,000 for a felony, $500,000
+if the crime is committed by an organization, and prison
+terms of up to 20 years.
+
+    The bill also prohibits traffic in passwords and other
+information from computers used for interstate or foreign
+commerce. This part of the bill makes it possible for
+Federal Prosecutors to crack down on Pirate Bulletin Boards
+and similar operations because the bill covers business
+computers, online networks, and online news and information
+services, all of which are considered interstate commerce.
+
+
+ Downloaded from P-80 Systems....                                                                                                                                            

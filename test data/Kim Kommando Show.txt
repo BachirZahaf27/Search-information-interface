@@ -1,0 +1,1647 @@
+kfyi-593.pt1                                                                                        000666  000000  000000  00000036074 05400446102 011143  0                                                                                                    ustar 00                                                                000000  000000                                                                                                                                                                         KFYI Phoenix, 910 AM
+Kim Kommando Show 5-22-93
+Segment One
+
+Cast of Speakers:
+KK: Kim Kommando
+MR: Mind Rape
+MY: Mercury
+B : Bruce
+--: Any caller
+A : Announcer
+
+Intro Music...
+
+A : And now another hour of Arizona's most exciting news/talk radio 
+    continues as KFYI shows you how to take command of your computer. 
+    Now here's KFYI's PC expert and syndicated columnist Kim Kommando.
+KK: And here we are. We're gonna be taking command of that computer for
+    the next two hours. 6 to 8 PM here on 910 KFYI. Any computer question.
+    All you gotta do is pick up the phone and dial now. You are gonna be
+    renting the nerds for the next two hours. 258-5394. 258-KFYI. We've got
+    two lines open. You don't have to read the manuals. You don't have to 
+    ask your friends and neighbors what kind of computer software that, that
+    you should buy. Because you what? They may not have the right answer. All 
+    you gotta do is pick up the phone and give us a call. 258-5394. 258-KFYI.
+    Any computer question. And I guarantee you that we'll know the answer or
+    do our best to have the right answer for you. And again, we have one line
+    open. 258-5394. And joining us today, two very special guests. Well, Bruce
+    is here. Bruce is our, our techno-extrodinaire. He knows the bits and 
+    bytes of the universe.
+B : Personally.
+KK: Personally knows them. He can call them by name. But our special guests. 
+    Their names. The first one is Mind Rape. Yes, his mother and father are 
+    proud of that name, but I don't think that they gave it to him. And then
+    we also have Merc. Short for Mercury. And these two gentleman, what, what
+    they do. Now there's good uses of technology. And this is the stuff like 
+    word processing. And you can write a book. You can help your business 
+    grow. You can make yourself more productive. You can give your kids an
+    advantage for the future. And those are the good uses of technology.
+    And, if we think about it, we got computer chips in our washer machines,
+    in our toasters, in our coffee machines. Just about any place you look 
+    around there is a computer chip somewhere lurking in the mist. But what 
+    about the bad things that technology does? I mean, Merc, we got a phone 
+    call about a, probably about 6 months ago now, a guy called in and said,
+    "You know Kim, computers are terrible. My father used to work, believe it
+    or not, at a shoe factory." I remember the caller. "At a shoe factory and
+    computers displaced everybody there. My father is 60 years old and he has
+    no job. No money. And I have to support him. And I don't think what you 
+    are doing is a service by, by having a computer show." Well I said thank
+    you very much and, you know, on to the next caller please. Thank you.
+    Well, some other bad uses of technology is quote unquote hacking. And 
+    what hacking is is when you, when you use your computer to do unscrupulous
+    things, in my opinion. And certainly hacking is not what a lot of people 
+    would call the best  way to use of technology. But yet, the hackers exist.
+    They've been around. You've seen the headlines. You know, "Billions Stolen
+    From a Bank." You know, and normally we're talking about, about people 
+    that aren't so, you know that they're not old, folks, you know normally 
+    they're in their teens and they get a little bored and need something to
+    do, in my opinion. And, and hence comes the word hacking. And so joining
+    us, we have a, we have two gentlemen here. The first one's Mind Rape, 
+    again. The second one's Merc. And gentleman, I'd like to to say thanks 
+    for coming down. And, ah, I guess I am just gonna start out by asking you 
+    what is, what is the worst thing that you have done. And I am going
+    to pose the question to you Mind Rape. And ah, now you're a married man. 
+    I see a ring on your finger. Ok. You have a family?
+MR: Ah, Yes.
+KK: Ok. And ah, ah, you have any kids? You got kids?
+MR. Yes
+KK: Ok. How old are you kids?
+MR. That's not really important here.
+KK: Ok. Well, I know, I just want to establish the fact that you are a family
+    man. You got values. You got morals.You're married. You're not just 
+    fooling around, you know, and, and, so on and so forth. What do you think
+    is the worst thing that you've done by hacking?
+MR: Ummm, as in worst as in the best accomplishment that I have done?
+KK: Well I don't if I would, I guess, I don't know if, if we would call it an
+    accomplishment, but if you want to use the word accomplishment, I 
+    understand. But, what do you think it is, and I'll use your words, what is
+    your best accomplishment that you have done with a computer.
+MR: Ah, I would have to say, taking control over a major phone
+    company system.
+KK: Ok. So you took control of the phone system. What does that mean when,
+    when you say you took control.
+MR:  We accessed their systems and, umm, we were full, we had full system 
+     privledges, we controlled everything. We were God.
+KK: Ok. You were God. quote unquote?
+MR: Uhuh.
+KK: Ok. And, and, you accessed their systems. Could fool around with the
+    billing? I mean, Could you make free long distance calls? Could you...
+MR: We could have. That wasn't the point.
+KK: What was the point?
+MR: Just to see if we could do it.
+KK: Ok. Then once you got in there what'd you do? Did you do anything malicious?
+MR: No! No. No, that is, we do not, Merc and I do not believe in that. 
+    That is totally unethical.
+KK: So its kinda like a game then? To see if you can get in?
+MR: Ah...Yeah...
+MY: No...
+MR: You wouldn't call it a game?
+MY: No, its more of a way of life. A philosophy.
+KK: Ok. So this is a philosophy. Now that's an interesting word to use...
+    its a philosophy.
+MY: It is.
+KK: Ah...Explain that.
+MY: Well, first before I can explain it, I would like to readdress your 
+    previous definition of hackers. A hacker isn't necessarily someone 
+    interested in breaking the law. I don't think you can build a case 
+    that someone who broke the law is a hacker. They might have used hacking
+    skills to accomplish their goal, but that does make them a hacker in our
+    guild.
+KK: Ok. So you don't think hacking is bad.
+MR: No.
+MY: I think their are positive uses of hacking skills.
+KK: Ok. And, well, there are, you know, positive uses of guns. I mean.
+MY: That's correct. That's a good point.
+KK: There's positive uses of a lot of things. So you, so you don't think 
+    this is a bad thing.
+MY: I think there can be negative things that hackers can do. I think there 
+    can be positive things. I think you have decide, ah, what you plan on 
+    doing with your skills, and just like any skilled person, whether its 
+    someone's who interested in electronics or chemical engineering or 
+    whatever it is, you use your skill for negative or dishonest or criminal...
+KK: But what do you get, what do you gain from getting into...
+MY: You gain...I'm glad you're asking me that finally. Ummm...
+KK: Finally? We've only been on the air a couple minutes. <laughter>
+MY: You gain...You gain knowledge.
+KK: You gain knowledge.
+MY: There's a great amount of learning.
+KK: What about reading an encyclopedia? I mean...
+MR: Oh yeah!
+KK: Reading a book?
+MY: We do that too. Library...
+MR: That's our...
+MY: That's a hacker's heaven.
+MR: That's our main resource. That's where we originally started at.
+KK: Ok. If, you know, if you're out there listening and you have an opinion 
+    about hackers or maybe you're a hacker, we loved to hear from you. I got 
+    one line open. 258-5394. 258-KFYI. And especially if, you know, you have 
+    an opinion about hackers, if you think its wrong, or, err, or maybe that 
+    something has happened to you, or somebody has gotten into your computer
+    and has done something that you don't think is ok, well, I want to hear 
+    from you. 258-5394. 258-KFYI. And so, you know, so you consider this a 
+    knowledge bank. I mean, you know, I guess I'm kinda sitting here saying
+    I use a computer all the time. Ok.
+MR: Uhuh.
+MY: Uhuh.
+KK: When you guys sat down, you said, gosh, you know, we're surprised to 
+    see a woman.
+MR: <laughs>
+KK: Ok, you expected some... What did you expect?
+MR: Well, most woman aren't really interested in, ah, computers. 
+KK: Ok.
+MR: There's nothing wrong with that. Ok, I mean, nothing wrong with women 
+    using computers. But its a shame that not a lot of them take advantage 
+    of it.
+KK: Yeah, I mean computers are really cool. I mean they really are.
+MR: Yeah.
+KK: There's a lot of stuff you can do with them, and they are really just 
+    wonderful. So tell me about the library.
+MR: Ah, like we mentioned before, the library is our best resource. That's 
+    where we originally started at.
+MY: A plethora of information at the library.
+KK: Ok, Give some examples.
+MY: There are books at the library explaining how phone switching systems 
+    work - telephony, computer science, programming manuals.
+KK: Ok, so this isn't just dialing into, ah, lets just say, the phone system 
+    computer.
+MY: Uhuh.
+KK: This isn't just dialing in. 
+MY: Right.
+KK: Now we gotta do some research before we can get in.
+MY: Right. In fact, I've said in the past that if someone made real movie 
+    about what hackers do it would be the most boring movie ever made.
+MR: Yeah.
+KK: Ok. I mean. I mean. Do guys have like a...I'm sorry I'm going to ask you
+    this. But, do you have a life? I mean, you're married, you got some kids.
+    I mean don't ya, I mean isn't there a better use of your time? I mean...
+MY: Well, do you have a life if you are doing what you want to do with your 
+    life?
+KK: Ok. Alright, I don't what to say other than I think I could find a better
+    use for my time. Lets go right to the phones. Lets go to John in Phoenix.
+    John, you're on 910 KFYI.
+--: <dead air>
+KK: Hello John?
+--: Yes!
+KK: You're on the air John.
+--: Oh. Ok.
+KK: Welcome to the show.
+--: Thank you very much. Ah, concerning, ah, I was listening to the 
+    conversation when you first came on discussing with that gentleman,
+    ah, concerning hacking.
+KK: Mind Rape and Mercury are their names. Yes.
+--: Ok
+KK: Mind Rape.
+--: Ok. I went to school and took quite a bit on computer courses for 
+    programming and operation. And, ah, in hacking, I've found, that that's 
+    one of the more...there's a lot of education involved in that. You getting
+    into...its just like getting into a new library. You go into another 
+    system...
+KK: Now John...
+--: A lot of people that hack aren't in there to cause damage. Just to see and
+    look.
+KK: John, have you hacked around? Have you done it?
+--: I have hacked before.
+KK: Ok. And why did you do it?
+--: Just to see if it could be done. Just to take a look. Just like seeing an
+    interesting book, you pick it up and you start reading it.
+KK: Ok. So its really just something that you feel that, ah, its a challenge 
+    for ya. Its something that you'd just like to try. Kinda like trying to 
+    ride a motorcycle. I mean, I'd like to try a lot of things. I'd like to 
+    try and paint, I mean. So you think that trying to get into somebodies 
+    computer is, is a worthwhile venture?
+--: It is to a certain degree as long as the ethics involved in it...as long
+    as their is no mischief involved, any damage. I've hacked into IBM systems
+    before. And, ah, that's how I learned how full network systems run. I got
+    my first job...
+KK: You know, John, you could read a book on networking and learn.
+--: There's reading a book and doing it are two different things. Like reading
+    a book on how to drive a car does not teach you how to drive a car.
+KK: You know, John, I appreciate you calling in and sharing your success story
+    with hacking, but I still gotta stand by that, you know, there's a privacy
+    thing here. You know, Merc you're wearing shirt that says "I Love The Feds".
+MY: That's sarcasm.
+KK: <laughs>
+MY: One thing that the caller said is people's system. Now that kind of leaves 
+    a feeling of individuality. Umm...its true, when you hacking into someone's
+    system you're not looking at someone's face. Or, or ah, you're connecting 
+    to a system of an unknown individual, which is in a lot of cases. So I'd 
+    like to start off by saying I'm not interested in hacking someone's 
+    personal long distance phone codes. Or I'm not interested in stealing 
+    service from the phone company. And I'd even like to state there are legal
+    ways to call long distance for free. Just to make a point, believe it or 
+    not, its true.
+KK: Ok. It's legal?
+MY: Right. There are legal ways to call long distance for free.
+KK: Well,I don't think we need to go through that here, now.
+??: <laughs>
+KK: Merc, I have to ask you why is the Attorney General knocking on your door?
+MY: Oh. Oh, that was a long time ago.
+KK: Ok.
+MY: Well, we were stumbling...stumbled across a system that...well, we didn't 
+    know who owned it. It ended up being owned by the State Department of 
+    Revenue. 
+KK: <laughs>
+MY: And they're a little touchy about accessing their systems. And, ah, its a 
+    shame that it had such poor security.
+MR: Yeah. Imagine if someone else got into it.
+MY: That wasn't...that didn't have the ethics that we have.
+KK: See, I don't...see I don't...you know, its a shame. You know, its 
+    a...there's a lot of things that there's a shame out of.
+??: Uhuh. <probably MY>
+KK: I mean, it's a shame if I'm walking down the street somewhere and I get 
+    mugged because I wasn't looking around. Ok?
+??: Uhuh. <probably MY>
+KK: I don't know if I...I guess, I'm taking a real hard stance on this because
+    I think that what you're doing is, you're, ah, I mean technology is so 
+    great, that, and its so powerful that what your doing is showing the bad 
+    side of technology, and that's not good.
+MY: What, what...
+KK: I mean, you know...I mean, you know, you're outlaws.
+MY: What, what bad things have happened by ethical hackers? Not a lot of,
+    not a lot of bad things.
+MR: Actually good things have happened.
+MY: There have been a lot of good things. Would you rather that it, that if you
+    were a student at a university, would you rather your system was secured by
+    someone who used to be a hacker and understood the security holes and flaws,
+    or would rather your system was secured by someone who just graduated, just
+    got out of school, was green behind the thumbs, so to speak?
+KK: Well I don't know if the universities will actually do that. There's, you 
+    know, there's several programs on the market. We've got one line open. If 
+    you want to join in, 258-5394. 258-KFYI. Just because we're talking about 
+    hackers doesn't mean you have to. All you gotta do is pick up the phone 
+    and give us a call. Let's go to Scott in Tempe. Scott, you're on 910 KFYI.
+
+<Scott was having a problem with his new modem. I edited out his waste of time>
+<as well as the commercial break that immediately followed this call.          >
+
+<This ends the segment one, the first half hour of the program.                >
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    kfyi-593.pt2                                                                                        000666  000000  000000  00000063210 05401755474 011154  0                                                                                                    ustar 00                                                                000000  000000                                                                                                                                                                         KFYI Phoenix, 910 AM
+Kim Kommando Show 5-22-93
+Segment Two
+
+Cast of Speakers:
+KK: Kim Kommando
+MR: Mind Rape
+MY: Mercury
+B : Bruce
+--: Any caller
+A : Announcer
+
+Intro music 1: Each time I see a little girl, of 5 or 6 or 7, I can't resist 
+a joyous urge, to smile and say, thank heaven for little girls...
+Intro music 2: Eric Clapton
+
+KK: And thank heaven for those little girls. Cause when those little girls 
+    grow up they do computer shows. What do you think? I'm Kim Kommando. 
+    We're talking about hacking. We're answering all those computer questions
+    here today. We got one line open. 258-5394. 258-KFYI. Let's go to Bob in 
+    Tempe. Your on 910 KFYI, Bob. <Zaphod>
+--: Hi. How are you?
+KK: Great.
+--: I was wondering, ummm, they keep talking about this hacker ethic and
+    I was kinda wondering what that was.
+KK: Sounds like an oxymoron, doesn't it, Bob?
+--: Well, not really. I mean, you can have lots of ethics I suppose you know, 
+    say ah, there can be a difference I guess between destroying things and ah
+    just wanting to see what's going on, curiosity.
+KK: Ok, well, you...you guys answer that question.
+MY: I'd like to answer that. First of all, we're not the ones that invented 
+    the term Hacker's Ethic. In fact, that's an old, ah, term. That's been 
+    around since...
+MR: Since the 60's.
+MY: Since the 60's...since it originated at MIT. Ummm, if you would like to 
+    explore of the philosophy of the Hacker's Ethic ah, I would say read a 
+    book called "Hacker's" by Steven Levy. That's...
+KK: Which brings up, which brings up a good point. Ok? And ah, and, Bob, I'm
+    gonna ask ya...you know, your welcome, your still on the air so you can 
+    join in. Ok?
+--: Ok.
+KK: Ah, what about going to school?
+MR: Well, I have attended school.
+KK: What about...I mean, you know, certainly there's a lot of knowledge you 
+    can gain by going to school.
+MR: Well one of the problems is I did attend ASU for awhile. And, umm, and 
+    the classes were extremely baby-fied.
+KK: Did you graduate?
+MR: Phht...no...
+KK: No. Ok.
+MR: I...The teachers were idiotic. They treat you like you know nothing. Which
+    is understandable, ok? But I even tried to get into higher end courses 
+    that they require like master degrees and stuff.
+KK: Ok.
+MR: And no. You have to take these courses. And I'm trying to tell them, I 
+    know so, I know so much and I'm even willing to test out of these courses.
+    They stilled refused. So I tried.
+MY: I can second that. I've called up ASU in the past and asked to take some 
+    advanced classes. Classes in which I probably could have taught their 
+    instructors a thing or two about. And they insisted that I complete their
+    MBA program before I go on to that class.
+KK: Yeah, you know, but that's, that's a ah, that's a sign of youth.
+??: Well...
+KK: And I'm not that much older than you guys sitting here
+MR: Uhuh.
+KK: You look like you're in their twenties. I'm in my twenties.
+MY: I would like to state I do have a degree in computer science. An 
+    associates degree. But I didn't continue on to get the masters or the 
+    bachelors.
+KK: Ok. Ah, because, I, I have a bachelors in computers.
+MR: Uhuh.
+KK: I mean, I went through ASU. And, you know, there's a point in out lives 
+    when we think we know everything.
+MR: No. We don't. That's why we wanted to go to school. Because we wanted to 
+    learn more. But as it turns out their sitting there telling me how to 
+    format a disk, ok, when I already knew how to do, done this since I was 9
+    years old.
+KK: Ok, well, I can't believe that. You know, what about DeVry? What about 
+    another school? I mean, certainly there are others ways...
+MR: Its not just the school itself, its the teachers also.
+MY: I guess the point we are trying to make is we've learned more on our own...
+MR: Yeah.
+MY: ...than we ever could have done going to a school.
+KK: Now you're telling me that nothing...that you've never done anything bad,
+    quote unquote. You've never, you've never used the computer, or the 
+    hacker...
+MY: To steal I'd say...
+KK: To steal. 
+MY: Right.
+KK: Ok. Have you disrupted somebody's files to make them look a little crazy.
+    Ah, just, just fooling around....I mean you weren't doing anything 
+    malicious.
+MR: Umm...no one is perfect. No one's perfect
+MY: I've done that to other hackers to just play jokes and stuff though.
+KK: But you know sometimes...
+MY: But not to students to confuse them.
+KK: You could have gotten into the Bell system, the phone company system.
+MR: Uhuh.
+MY: Could have.
+KK: And ah, and maybe disrupted some of their files.
+MY: Eh...Right...
+KK: You know, and we're talking about a billion dollar a year company.
+MY: I guess the mentality behind that is, is you could go out and buy a gun 
+    to shoot someone but you don't because you have ah, ethics or I suppose 
+    you have a conscience and...so we all have the free agency, the capacity
+    to do anything be we choose not to because of free will.
+KK: Ok. Ok, well, there's another term associated with hackers called 
+    cyberpunks.
+MR: No.
+MY: No, we hate that term.
+MR: No. No, I am not a cyberpunk
+MY: It's new age. It's trendy. It's...
+MR: It's a fashion statement that's what it is.
+KK: Ok, well, a pocket protector is a fashion statement too, but, I mean...
+MR: Well, we don't seem to be looking like we're wearing one <laughs>
+KK: No, no pocket protectors there. Let's go to...Let's go to Mike in Phoenix.
+    You're on 910 KFYI, Mike.
+--: Yeah, just some general questions for these hackers. Ummm, found this kinda
+    of interesting. I've been messing around with computers now for maybe about
+    3 years. Been messing around mainly with Autocad. In other cases I get on 
+    my modem and I horse around...just for the ah, bulletin boards services. 
+    I've always been curious...how do they gain access. Can they give me some
+    ah...
+KK: So you want, so you want tips!
+--: I'm just curious how they do it.
+KK: You want hacker tips.
+MY: Maybe he wants to know ways to keep it from happening to him.
+--: That's very possible.
+MY: Nothing wrong with knowing that.
+--: No I'm just curious...
+KK: Well it works both ways.
+--: ...how do they around codes. How do they get access to the numbers.
+KK: That's an interesting question. How do you do it?
+MY: Different...different ways. It depends...
+KK: Give me an example. Tell me how...
+MY: If he's attached a major network, say the Internet or ah, Sprintnet say, 
+    then there's already ways to connect to a system without going through a 
+    login. There's mail ports, there's finger ports. Ummm...I'm primarily 
+    someone who's interested in networks. For someone...
+KK: You like networks.
+MY: I love networks.
+KK: Are they easier?
+MR: No.
+MY: Easier to hack? No. Because there are so many predecessors before us that
+    they are more secure. But there are more ways...more different ways to 
+    connect to them.
+MR: You can literally go around the world.
+KK: Ok. Explain that. Go around the world.
+MR: For example, you can literally go around the world. All the way to Taiwan. 
+    Right out of...
+MY: I maintain...its not really amazing, its nothing...its no major 
+    accomplishment that we made. Its the people who, who run the networks
+    that really are the, ah, the great people as far as that accomplishment 
+    goes. But, anyone who has, who has any experience working on the Internet
+    knows that all you have to do is specify an Internet address and you can 
+    immediately connect to any host, connect to any domain.
+KK: Ok, and bypass any, ah, you know with Internet there are no real charges.
+    But what about, like a online service like Compuserve?
+MY: Ummm...Well I think...Well this is my opinion, I'm not gonna...I don't 
+    want to hurt anyone here, but I think Compuserve...its just a blatant 
+    ripoff.
+MR: Its basically a joke. That's what it really is.
+MY: There's...its a self contained system they have mail gateways on it to 
+    the Internet. But what can you get on there that you...
+KK: But there's, But there's a lot...
+MY: ...can't get for free.
+KK: Well, yeah. But there's, But there's a lot on there that you can get.
+    Ok. Cause I use Compuserve all the time. But before we get into it...Mike,
+    do you...do you think its ok to hack?
+--: Do I think its ok to hack? 
+KK: Yeah.
+--: It depends what you're getting on to.
+KK: Ok.
+--: Ummm....I'm sure there lots of stuff you can get onto where you can't 
+    create damage if you just do it for entertainment.
+KK: Ok.
+--: Then that would be ok. I think if maybe you get onto something, for 
+    example, umm, a police service of some sort you could cause some damage
+    and, ah, hurt other people unknowingly. Ummm...<garbled - she talks over
+    him>
+KK: But, but, you know, but the bottom line is if you think you're just...you 
+    think that if you're at home, ok, you got a computer and a phone line.
+    And, ah, you know, its a little slow around the household, you got...
+    you're bored. And you're curious to see if you could do it. You think 
+    its ok to go into somebody else's computer and take a look. Its kinda, 
+    you know, cause sometimes computers are like your homes. I mean, there's 
+    so much personal information on a computer.
+--: I know a little about hacking. Although I haven't really gotten into it. 
+    I know enough if you really want these boys out, there are ways to keep 
+    them out.
+MY: That's true. I would....I would say that most of systems that get hacked
+    are systems that where the administrator never cared.
+--: Yeah.
+MY: And didn't take the time, the small amount of time it would have taken to
+    secure the system.
+--: But tell me about the networking. How do you get ummm. <laughs> How do you
+    find the numbers for these things. How do you get access to these things?
+MY: There are public Internet dialups.
+--: Really?
+MY: For instance, there's a new place in the valley that just ah, free public
+    Internet access. And I guess I can't say that because you can't name names
+    on the air, so I won't. But, ummm, you can access the Internet if, if you 
+    are at a major university
+KK: Ok.
+MY: So...
+KK: So, I mean, so if you know if you have access to Internet you're telling 
+    me that I can go...
+MY: Or government or military sites that are all connected to the Internet too.
+KK: Ok. And so and its not very difficult to get in there.
+MY: Oh, I wouldn't say that. But I'd, I'd say there are times when you find 
+    systems that aren't secure. And...
+KK: How long does it take you to get into one? On the average?
+MR: It depends on the security of the system...
+KK: Let's say just the average...
+MY: On the average, how many times in a day, could I hack into...how many 
+    sites could I hack into in a day, would ya say?
+KK: Yeah.
+MY: At the most, I would say four sites on the Internet.
+KK: 4 sites in an 8 hour day?
+MY: Ahh...well, maybe I didn't spend 8 hours doing it constant...I mean, 
+    sometimes I'm not sitting there doing it, maybe I have a program doing
+    it for me.
+KK: Oh, so, so you can write programs. Well, I want to know about that. <laughs>
+    This is interesting. I, I...this is interesting. We got...Mike, thanks for
+    the call. We've got one line open. If you want to join in, 258-3954. 
+    258-KFYI. I'm Kim Kommando on 910 KFYI.
+
+<commercial break>
+
+Intro Music: ACDC
+
+KK: We're back answering all those computer questions here on 910 KFYI.
+    Let's go right back to the phones. Let's go to Sharon in Phoenix. 
+    You're on 910 KFYI, Sharon.
+--: Hi.
+KK: Hi.
+--: Ah, I didn't know your boys were gonna be on and I got a DOS question and a
+    comment.
+KK: Oh no, that's cool. We'll take it. But no, let's hear your comment.
+MY: Maybe we can answer it I don't know.
+--: Yes.
+KK: Hey, well, you know, give me a break here! You know, I do this every week 
+    without ya. Ok, I mean... <laughs>
+MY: Ok, I'm not trying to take your job, go ahead. <laughs>
+MR: We want her job, man. <laughs>
+--: Tell your boys to cool it.
+KK: Cool it over there. Listen to Sharon.
+--: <laughs> I think that what they're doing is akin to being in a 
+    neighborhood, you know, that they're familiar with and looking in the 
+    living room window or dining room window providing they don't...
+KK: So they're peepers!
+--: Right. Now if they open the files and actually read them, then they are
+    looking in the bedroom window and then it changes a little bit.
+??: <laughs>
+KK: You know what, I gotta tell ya, the guys are getting excited here. You 
+    say bedroom window and they're get excited.
+--: Right. Exactly.
+KK: You know, that's a good point Sharon.
+--: Now what they're doing, if they tell somebody that there was something
+    terribly illegal going on in that living room and that it should be fixed, 
+    I'd say harmless fun, and thank you, you know, for letting us know. If 
+    they let the security people know. On the other hand, if they keep going 
+    in and keep looking then it isn't harmless fun anymore, then its invasion
+    of privacy
+KK: I, I agree with you Sharon. I think it is an invasion of privacy.
+--: But on the other hand, kids will be kids and, you know when I grew up, they
+    used to tip over the outhouse and they used to dump things. And...you know
+    what I'm saying.
+KK: Yeah. Yeah, you're right.
+--: I don't mind, I really don't mind them doing it. And I certainly don't 
+    want to see them go to jail for 20 years because they looked.
+KK: But if, but if they look inside, and...
+--: If they reach in through the screen and take anything...
+KK: They should be put away.
+--: Put them away.
+MY: I...
+KK: Put them away.
+MY: I have a statement to say about that. 
+KK: Go ahead, Merc.
+MY: I mean, I understand the angle she's trying to take with this. And I agree
+    when you're young, you do things, childish things, like tip over outhouses
+    though I never have had the privledge myself. But all that...
+KK: Get to the point, Merc. Come on.
+MY: We take hacking very seriously, its not a childish type of thing. We have 
+    reasons for what we do, and we also have things that motivate us, and, 
+    umm...
+KK: We're...We're going to talk about those motivations. But let's here that 
+    DOS question first, Sharon.
+
+<editted out Sharon's DOS 6.0 - the usual upgrade problems>
+
+KK: ... And I appreciate you calling in, because you know what, Sharon, you
+    brought up a great point, that, it is like you're looking in someone's 
+    home ok, when you're hacking, ok because, you know, you're looking inside
+    computers. Now, you know, Mind Rape. Nice name. <laughs> Bye the way...
+    nice name...
+MR: Its nothing sexual.
+KK: Well, Mind...Rape...you know, I mean, you have to come up with a better one.
+    But anyway, you look like a nice guy. What are you running around with a 
+    name called Mind Rape for? I mean, its ah...
+MR: Well, basically, it ah umm...phttt...it can be taken several ways. One, it
+    describes who I am and how I see things. So basically my mind itself has 
+    been raped.
+KK: Now you consider yourself ethical?
+MR: Pardon me?
+KK: You consider...err...both you guys. You think you're ethical.
+MY: We like to be. We like to be considered ethical. Yes.
+MR: Yes.
+MY: We believe we have ethics.
+KK: Ok, now, now do you know what the definition of ethics is? I mean, can 
+    you...can you tell me what the definition of ethics is right now?
+MY: I didn't look at it in Webster before I came, so I probably couldn't give
+    you his version of it. But ours is maintaining our own level of, of
+    professionality in what we do and not...we're not out to hurt or...
+MR: Profit...
+MY: ...profit...we're not in it for profit and...
+KK: We're going to talk about what the definition of ethics is, when we come 
+    back. I'm Kim Kommando of 910 KFYI.
+
+<commercial break>
+
+Intro Music: Van Halen
+
+KK: We're back answering all those computer questions. We're talking about the
+    ethics of computing. The ethics of hacking not computing. We're here with 
+    Mind Rape and Mercury, or short for, Merc. And we're talking about what's
+    all happening and how they are able to get inside the computers. And 
+    before we went to that break, I asked you the definition of ethics. Ok, 
+    Merc? And you, you told me during the break that you wanted to work on it,
+    you know, that, that you didn't give the right definition. Ok, so you tell
+    me what it is.
+MY: <muffled> again...again...<clear> Something wrong with the microphone. 
+    <laughs>
+KK: I know, go ahead shoot. Your on now.
+MY: Short in it. Again, I'm not...I'm not...
+KK: High tech place...I'm not the person who invented the term Hacker's Ethic
+    But I know what it means as far as what I do and what I shouldn't do. And
+    things that I shouldn't do is...well, ah...for any reason, for reasons of
+    revenge or what don't destroy systems. Don't get involved for personal gain.
+    Just be in it for the learning experience.
+KK: Ok, for the experience. That's, that's what ethics means to Merc. Ok, lets
+    go to ah, lets go to Bob in Scottsdale. Err...lets go to Gail in Phoenix
+    Your on 910 KFYI, Gail.
+??: Hi Gail.
+KK: Gail?
+--: Yes.
+KK: You're on the air.
+--: I'd like to ask Mind Rape, given his view of ethics, what ah, he was
+    prosecuted for and what was the outcome of his case.
+KK: Good question, Gail. Go ahead.
+MR: Is your name by any chance Gail Thackeray?
+KK: Now we don't give out last names here, its not important. Let's, let's go
+    ahead Mind Rape. You're blushing a little bit. Why are you doing that?
+MR: Well, I have been busted before.
+KK: Ok.
+MR: I have been prosecuted for telephone abuse.
+KK: Telephone Abuse. Gail?
+--: Isn't that theft?
+KK: Yes. That's theft. Ok, now you got prosecuted for that. But you, you've 
+    been telling me, here, for the last forty minutes that you don't do 
+    anything wrong. That, that, you know...
+MR: No, that was. That right there...
+KK: Yeah but...
+MR: It takes, sometimes it does take a bust to really show me what's...what 
+    isn't right.
+KK: But Mind Rape, for the last forty minutes, you, or so, you've been on the
+    air. You've sat here and said, Kim... And you've said it to us, the 
+    listeners, ok, I do it for the experience. I do it because I want to learn.
+    Because I tried to go to ASU and I couldn't learn, you know, I couldn't 
+    learn a damn thing. I didn't know anything...I couldn't learn anything
+    because I already knew how to format a hard disk. But now, but now you're 
+    telling me...now...now... You lied to us...
+MR: No. No. I, as I mentioned before, no one's perfect either. I mentioned that
+    at the very beginning of the show. No...not...
+KK: Ok, well tell us why you got prosecuted.
+MR: Ah, I was basically doing telephone fraud, which is abusing long distance
+    service. Making free phone calls.
+--: Free to whom? Someone paid your bill.
+KK: Yeah. Us the consumers paid your bill eventually. I paid your bill Mind 
+    Rape. Who'd you call?
+MR: <laughs>
+KK: How come I didn't get the benefit of the phone call?
+MR: Well see, I don't have the resources to learn. Ok. I would go to ASU, I 
+    would go to Devry. But one of the things is, I don't have the money. ok...
+    And if there was...
+KK: Oh my...get out of here...
+MR: No seriously, if there were teachers and stuff out there, that willing to
+    work with me, in such a way...
+KK: No, I want to know why you were prosecuted now.
+MR: Why I got prosecuted? For abusing telephone service and stuff.
+KK: Ok, so how did you get nailed. ANd what happened to you? Did you go to jail?
+    Did you get a fine?
+MR: No, I'm, ah, currently serving probation. 
+KK: Ok.
+MR: Which is, you know, decent of them to allow me to do, to do that.
+KK: Gail, you got a comment?
+--: Yes. If he had a burning desire to learn about high performance race cars,
+    no one would forgive him for stealing them and joyriding in them and taking
+    them away from their owners. But he feels that he has a right to do the 
+    same thing with computers.
+MR: No, the telephone abuse, I would have to say, it was wrong. Ok. That was 
+    my mistake.
+--: What about exploring other people's computers without their permission or
+    knowledge? And not caring about what happens to the computer while your 
+    exploring?
+MY: Well, again, your using the word people's. I mean, we're not interested
+    in individual's systems.
+KK: What they're saying, Gail, what they've been saying here, is...
+MY: What about a government system that maintains list of information on 
+    private citizens?
+KK: Gail. But Gail, Gail, they're denying going into people's computers. Ok?
+    Alright, They're saying they only go into companies so its ok.
+--: Well...
+KK: Now, I don't, I don't agree with them. I agree with you. I think your 100%
+    right.
+MR: We're not out there to steal information. Ok? We're out there to further 
+    what we know. And some of the tactics, some of the tactics we have done...
+--: You're out there to explore what interests you. And you don't care system 
+    it is that you're on. And you don't care what happens to the system that 
+    you are exploring. Because, when you explore it, you cause unforeseen 
+    problems. And you're there to explore whether that happens or not. And you
+    don't really care, do ya?
+MR: Would you rather have me hack into a government site, or some KGB agent 
+    hack into a government site?
+--: I'd rather that nobody hacked into it. But I can't accept...
+MR: But it happens...it happens...
+--: ...the KGB's desire to do it as an excuse for your willingness
+    to cause harm.
+MR: Ehem...
+MY: Back to the ethics thing, though, I... 
+KK: No. We're gonna, we're gonna talk about the ethics thing...
+MY: I would like to say though, as far as breaking into systems, that
+    every time...
+KK: Merc, I gotta put you...
+MY: Go ahead.
+KK: We're going to talk about the ethics thing. Because, you know...and I'm 
+    gonna read you the definition of ethics, ok? And I'm gonna tell ya what 
+    ethics is. Or what Webster's says ethics is. And what I think as a moral 
+    person, with a value system, that pays taxes, that abides by the law, 
+    what we think about ethics. What's important to us. I'm Kim Kommando here 
+    on 910 KFYI.
+
+<commercial break>
+
+Intro Music: George Thorogood
+
+KK: And we're back answering all those computer questions. We're talking about
+    hackers. We've got one line open. 258-5394. 258-KFYI. And I'm gonna read 
+    you, Mind Rape, Merc. I'm gonna read you what Webster's here...I'm gonna 
+    look it up, Webster's Encyclopedic Unabridged Dictionary. Its a big, a big
+    red book. What they say ethics is. Ethics is a noun. The body of moral 
+    principles governing a group, a complex of moral held rules of conduct 
+    followed by an individual or group and if you're ethical, ok, is that if
+    you're upholding these rules, the standards of a profession. And I beg to 
+    argue with you. Now, I've programmed. I, I have a degree in programming.
+    I've had to program for Fortune companies in my life. I mean, you know, 
+    I...now this is all...me being on radio just didn't happen overnight I've 
+    worked for IBM. I've worked for ATT. I've worked for Unisys. In different 
+    capacities. Now, I know that there's standards for computing.
+MY: Uhuh.
+KK: There are various bodies of conduct. Anything from where to put the pick 
+    statements in a Cobol program, alright?
+MY: Right.
+KK: To ah...
+MY: I'm a Cobol programmer, I know what you're talking about.
+KK: Yeah, and They're a pain, right? Those pick statements...I hate em.
+MY: Heh...
+MR: I hate Cobol.
+MY: I guess the, ah, the keyword in that was a group, followed by a group. I 
+    guess we could safely say that our ethics, obviously, ah...I'm not gonna...
+    When I say ours, I don't mean MR's and mine, I mean the ethics of the whole
+    hacker community, and its not a small community either. We're talking 
+    about thousands of people. I wouldn't say millions.
+KK: Ok, but...but do you think its ok if, if a group of people... Do you think
+    its ethical for a group of people to look inside my bedroom window?
+MR: That's a different situation actually. 
+KK: Why...
+MR: That is your bedroom window. That is your house.
+KK: Ok, but my, but my computer
+MY: I don't know. It depends... Are you changing your clothes with the window
+    open?
+KK: Oh, So if I have the window open, its ok.
+MR: <laughs>
+MY: I mean, Well, don't blame me if I drive by and if I look and see you 
+    standing there. Its the same thing, if people leave their systems wide open.
+    Ah...and I'm not saying blame them. I'm saying there, ah, that we provide 
+    a service, and its agreed, its not a service that a lot of people like to...
+KK: You're unethical. You're unethical.
+MY: In your terms of ethics, yes. I'm not.
+KK: Ok, then say it. In my terms...
+MY: In your terms I am not ethical.
+KK: You are not ethical.
+MY: Right. Because you obviously follow a different set of ethics than I...
+KK: I, I follow what the dictionary says. And I say what the world...
+MY: No, the dictionary said group, and your group and my group are not the 
+    same group.
+KK: Alrightie... Well we're gonna, we're gonna, you guys hang...you guys are
+    gonna hang around for a couple more minutes. And, ah, the Hell's Angels 
+    aren't very ethical sometimes either, but anyway, I'm Kim Kommando here 
+    on...
+MY: Great bunch of guys though...
+MR: <laughs>
+KK: ...910 KFYI. And ah, Daryl, Tom, Steve you hang on the line. we're gonna 
+    be getting to your phone calls after the, ah, news, here, at the top of 
+    the hour.
+
+Exit Music...
+
+<commercial break and news at the top of the hour>
+
+<This is the end of segment two.>
+                                                                                                                                                                                                                                                                                                                                                                                        kfyi-593.pt3                                                                                        000666  000000  000000  00000052725 05402640340 011150  0                                                                                                    ustar 00                                                                000000  000000                                                                                                                                                                         KFYI Phoenix, 910 AM
+Kim Kommando Show 5-22-93
+Segment Three
+
+Cast of Speakers:
+KK: Kim Kommando
+MR: Mind Rape
+MY: Mercury
+B : Bruce
+--: Any caller
+A : Announcer
+
+Intro Music...
+
+A : And now another hour of Arizona's most exciting news/talk radio 
+    continues as KFYI shows you how to take command of your computer. 
+    Now here's KFYI's PC expert and syndicated columnist Kim Kommando.
+KK: We're talking about ethical computing. We're talking about whether or not
+    ethics, ah, can exist in hacking. I don't believe so. Ah, but we have two
+    gentlemen here in our studio, ah, Mind Rape is his name. And also Merc.
+    And, ah, we've been talking about hacking and before we go back to our 
+    conversation, let's go to Steve in Phoenix. Your on 910 KFYI, Steve.
+
+<edited of Steve's Windows/Parity problem>
+
+KK: Alrightie. We appreciate you calling in. If you want to join in the 
+    conversation, we got one line open. 258-5394. 258-KFYI. And just because
+    we're talking about hacking, doesn't mean you have to. I'll answer any 
+    computer question. Maybe you're out there shopping, you don't know what to
+    buy. Well, here's the place folks. You don't need to get ripped off. All 
+    you gotta do pick up the phone. 258-5394. 258-KFYI. And, and ah, you know, 
+    before we went to the news, Merc, here agreed that, that ah, he was 
+    unethical in my definition, which is the Webster's dictionary definition.
+    But let me ask you what about...what's the, what's the, what's the deal 
+    with the, ah, the UFO's? Tell me, tell me Mind Rape, what's the deal?
+MR: Actually Mercury is more up to date on, ah, UFO's. That particular part...
+MY: Ummm...this comes third hand. It's really...sketchy.
+KK: Now you haven't done this?
+MY: This is...ah, not me personally. This is common knowledge, though, that has
+    been on the TV. And it was done by LOD. It is something that happened with
+    LOD.
+KK: What's LOD?
+MY: Legion of Doom. Its a hacking...
+KK: Legion of Doom.
+MY: ...hacking group that mostly comes out of Austin, Texas. 
+KK: Ok.
+MY: Most widely publicized hacking group probably...
+KK: Tell me what the Legion of Doom...you guys have great names. I mean, I 
+    thought Kim Kommando was pretty good. Ok. But ah, you know...<laughs>
+MY: Its all for show really.
+KK: Ok, ah, mine's legit though. I was born with this thing
+MY: Ok.
+KK: Tell me about the Legion of Doom
+MY: Well, this is two people in the Legion of Doom. Or two hackers in the 
+    Legion of Doom. Eric Bloodaxe and Scott Chasin. And, bye the way, Scott
+    Chasin is his handle and its not a real name. <laughs>
+KK: Ok.
+MY: Ummm, but they had, ah, a segment on channel 10. A dateline about, oh, two,
+    three, four months ago.
+KK: Ok, tell me what happened. What's the point? Alright.
+MY: Well on TV they showed some, ah, screens of someone connecting to the 
+    nic.ddn which is the Network Information Center for the Data Defense 
+    Network. And they showed, ah, some printouts of, ah, the sites that they
+    had found on there. And the printouts that they had hacked...they had 
+    hacked into some of these sites. And some of the printouts read inventory
+    on file referring to UFO inventory parts and also, ah, autopsies on report,
+    or something like that.
+KK: Ok, so, ok so the bottom line is though, that this Legion of Doom went in 
+    there and they found information on UFO's that maybe the government doesn't
+     want to share.
+MY: I wouldn't, I wouldn't speculate myself. I guess the main reason that the 
+    whole thing came out into the open was because, ah, the White House made 
+    an official request to the Legion... I don't know if it was Legion of Doom
+    or to their representatives for the information.
+KK: Alrightie. Let's go to Tom in Glendale. You're on 910 KFYI, Tom.
+--: Hi.
+KK: Hi.
+--: Ummm, I want to touch back first on what you were saying about education.
+??: <garbled>
+KK: Ok.
+--: I have known, ah, Mercury for a number of years.
+KK: Ok.
+--: As a matter of fact I got my associates degree the same time he did.
+KK: Are you a hacker Tom?
+--: No, I'm not.
+KK: Ok.
+--: First thing I would like to say is I would, ah, immediately recognize that
+    he has, ah, vastly more knowledge than I do.
+KK: Ok.
+--: And I went on after him and got a bachelor's degree, ah, through, ah, 
+    Devry's bachelor degree program.
+KK: Ok. Well, he's got more experience in what?
+--: He's got more basic computing knowledge.
+KK: Ok.
+--: Ummm...
+KK: Well, you know, its kinda like...Tom let me give you an example. Ok?
+    It's kinda like you were to read an, ah, automobile repair manual, right?
+--: Uhuh.
+KK: Versus puttin' grease on your hands. Ok? Now, who is gonna be better at 
+    fixing the car? Alright? The guy that's got the grease or the gal that's
+    got the grease under her fingernails.
+--: With computers and computer programming and such it doesn't work that way.
+KK: Well, I, I tend to ah...you know what? I don't agree with you Tom.
+--: <garbled>...computer programming classes are great for teaching you the 
+    basics.
+KK: Yeah, but that's my point, is that, is that you can learn the basics from
+    the classes. But as far as actually getting in there. Now, I can read a 
+    book on programming. I have done this in my life. I can read a book on 
+    programming and until I actually get in there and start making the loops,
+    the goto's, and all the other good...you know, all the other stuff. Its 
+    ah...you can get messed up. You know what I mean?
+--: Yeah. But the problem with the computer education system is the classes 
+    that are readily accessible...
+KK: Well they don't teach...
+--: Anybody, even myself with a bachelors degree will teach you enough about
+    any programming language to get you in...basically enough to get you into
+    trouble.
+KK: Ok, so but you think its...
+--: And by learning on your own...I've taught myself more about languages I 
+    didn't take in school than I learned about the languages I took in school.
+KK: Well, what about writing a software program?
+--: I've been working on one for the past three years.
+KK: Ok, what about, ah, you know, ah, taking some classes on, ah, object 
+    oriented databases. You know, and actually sitting there and doing 
+    something like that. You're gonna... You know there are better ways to 
+    learn, Tom. You know, there are better ways than fooling around and trying
+    to get into Bell system computer then and getting nailed for it for 
+    telephone abuse. You know, I mean...
+--: You're talking two different areas there! You know...
+MY: Actually no...ah, if you did break into the Bell System Laboratories
+perhaps you would find source code
+you could
+study that source code
+and further your knowledge
+of, of whatever that source code is. Whether it's a
+SQL database or...
+KK: You could break into my house and steal my journal and learn a lot about me.
+MY: Probably be pretty interesting too.
+MR: <laughs>
+KK: Nah...its pretty boring let me tell ya. Anyway Tom, go ahead.
+--: Something that's not being said here, is, you know, people are blending 
+    definitions together...<censored by station>
+KK: Watch you language sir.
+--: I'm sorry. Ummm...Phreakers. 
+KK: Ok.
+--: Ok. Then you've got hackers...they...most hackers you would never even know 
+    they were there.
+KK: Alrightie...well, you know, and...and most hackers...and that's the point.
+    Because they're going in, and if hacking was ok, you, you'd know they were
+    there. You would...you would have easy access to these computers. You 
+    wouldn't have to sit there for eight hours.
+MY: Actually, you can, you can phreak and, and ah, not break the law. Phreaking
+    only means that you're interested in telephone technology.
+MR: That's the true definition of phreaking...is to study the telephone system,
+    not actually abusing codes and such.
+MY: If your only goal is to obtain a free phone call, then you haven't gone 
+    very far.
+KK: Well, you know what, I guess my, my...
+MY: I pay for my long distance. 
+KK: Well, that's good.
+MY: Even if I'm at a pay phone.
+KK: And I'm sure Mind Rape now you do. Don't ya?
+MR: Oh yeah. <laughs>
+KK: He sends that little bill to AT&T every month. Now, let's go to Daryl in 
+    Sun City. Daryl your on 910 KFYI.
+
+<edited out Daryl's DOS 6 questions>
+
+--: Ok, then, about the hackers, then.
+KK: Ok.
+--: Ok guys. Umm...here's, here's what...I think that there's...because I'm, 
+    I'm... Ok, I'm an ASU student. I'm a CIS major...
+??: Ok.
+--: ...but I'm in, I'm in lower division so I'm not in the major yet.
+KK: Ok.
+--: Now, now I'm actually taking classes, but you guys could just go...
+    Why didn't...why didn't you guys just go to ASU? You guys spend a lot...
+    You guys pay for your long distance, so you guys do spend money. Why not
+    spend that and go part time and just take a stupid class show that you 
+    could get an Internet account?
+KK: That's good, Daryl...
+MR: Because I, I...
+--: And then, and then you can get the Internet account and then you can mess 
+    with it legally and you can get a lot of experience out there. A lot of 
+    people will let you into their systems and, and that.
+KK: But not only get into Internet...
+MR: What...
+KK: Wait. Wait, ok? Not only get into Internet. I mean, Daryl, I mean your, 
+    your a CIS major, ok?
+--: Right.
+KK: Ok. You're learning something aren't ya?
+--: Right.
+KK: Alright. You're taking some business law classes. You're taking marketing.
+    Now, you're also taking some programming too. You're getting a well 
+    rounded...
+--: I will be, yeah.
+KK: Yeah. I mean, but you're not there yet but you will, because you're in the
+    lower division. Now you're learning at the same time. You got the Internet.
+    You got a couple things going for you. You got a future ahead of ya. You 
+    know, you're what, 18, 19 years old?
+--: 19.
+KK: 19 years old.
+--: Almost 20.
+KK: Ok. Almost 20. Its kinda like, remember when you were a kid you were 
+    saying, I'm almost, I'm almost 16, I can drive.
+--: <laughs>
+KK: Ok. <laughs> But ya got a lot going for you. Now, Merc let me ask you a 
+    question. Ok? Your...
+MY: First I'd like to address his question.
+KK: Well, no, let me ask you a question. 
+MY: Ok.
+KK: Its my show. Alright? You're sitting...
+MY: Ok.
+MR: <laughs>
+KK: <laughs> I mean, you're sitting in my studio here. Ok?
+MY: Ok.
+KK: Ah, now, isn't there more to life? I mean, you're 25. You want to be 
+    sitting here when you're 35? I mean, you know, 45? 55? What about a 
+    pension plan? I don't think you're gonna be getting a pension for laying
+    off the hacking.
+MY: Well, that's weird. I never told you my age. You must be a hacker too.
+KK: No, I'm not.
+MY: <laughs>
+KK: I've got tons of things to do with my time.
+MY: Well, first of all, I did want to say I do have legitimate Internet account
+    that I pay for.
+KK: Ok.
+MY: Ah, second of all, again, I, I believe we have already gone over the 
+    education bit. Umm...I would just say that, again, we can learn more on 
+    our own by studying on our own. And, ah, I have lots of friends who are 30,
+    and 40, and they used to be like us and now they manage networks. Ah...
+KK: So, so what they did was they went legitimate. They used...
+MY: Right.
+KK: ...they used the experience...
+MY: I, I believe there is a graduation from hacking. I do. I believe there is 
+    a time when get tired and bored of it and you go on and become something 
+    even better.
+KK: You become a real person. A tax paying citizen.
+MY: I pay taxes. 
+KK: You pay taxes?
+MY: I'm a software developer.
+KK: Ok, well...
+MY: Commercial software developer.
+KK: A commercial... Do you have, ah, any, ah, winning products out there?
+MY: I have, I have a product on the shelf in many, ah, many states of the U.S.
+KK: Well that's, see...well that's, that's...and now...but you're moving away 
+    from hacking. Ok. You're moving...
+MY: I believe I am...
+KK: Ok. You're growing up. Ok, because their is research out there, that says
+    you know that most hackers are, are boys in their teens. Ok. And, ah, Daryl
+    I appreciate your call.
+MY: That's, that's not true though.
+KK: That's not true. What do you think the, the...
+MY: Oh man, I'm always amazed by the type of people that you find are hackers.
+    Old people...
+MR: Uhuh.
+MY: I'm serious. I know a person who is 50 years old and he hacks. 12 year old
+    kids. Or, ah, women. Ummm, there are women hackers, even...
+KK: Well, I'm sure there are. Ok?
+MY: But even sometimes people you don't like later you find out that they're 
+    hackers. We find it amazing, even if we don't like them, we respect them 
+    because they're a hacker.
+KK: Let's go to Bob in Scottsdale. Bob, you're on 910 KFYI.
+--: Ah yeah. I had a question addressed to your labeling of, ah, their ethics.
+KK: Ok.
+--: Ok, ummm, basically what ethics is, is it all goes on morals, right?
+KK: Its ah, its morals...
+--: Its based on morals, but...
+KK: Its based on morals and values.
+--: Yeah.
+KK: And these are standards...
+--: Ummm, not necessarily.
+KK: ...followed, umm...nope. I, I beg to bar..., I beg to differ with you
+    because I read it out of Webster's. Ok, it says...
+--: You can also look up morals in Webster and its also what a society defines.
+KK: Ok, well lets...but we're not talking about morals, we're talking about 
+    ethics, Bob.
+--: Yeah, but morals is what ethics is devised around.
+KK: Ok. No, we're about ethics here. We're not talking about morals. What 
+    ethics says is that its the morals and values followed by a group.
+--: Exactly.
+KK: Ok, now Bob, do you think its alright if you're, if you're, ah, in your
+    bedroom and somebody takes a look in your window? Do you think that's fine?
+--: If I didn't take the prevention of closing my window then, I guess, then 
+    I'm not aware of that happening.
+KK: Ok, but...ok, you're not aware of it happening, but is it right or wrong?
+    Is it right...
+--: I mean, its...that's a easy, you know, to describe moral. But...
+KK: Is it right or wrong, Bob? Is it, is it right or wrong that if somebody is
+    a peeper and they're standing outside your bedroom and they look inside 
+    your window? Is that right or is that wrong?
+--: Is that right or is that wrong? It depends on what society you're in.
+KK: I'm asking you. I'm not asking society, I'm asking you. You're the one 
+    that called in and said that I'm wrong on the ethics issue.
+--: No, I'm not saying you're necessarily wrong, I'm saying that you're 
+    definition of it is not...
+KK: I gave the...
+--: ...strictly defined because that is not something that...its always gonna
+    have really fuzzy lines and that's what the hackers are in. Because, as
+    far as they can see, its, you know, its ethical as far as they go, as far
+    as they believe is far enough. What you're trying to pin on them is that 
+    anybody that hacks is morally wrong. They're not doing...they're not 
+    applying to your ethics, not theirs.
+KK: I don't think their applying to society's ethics. I don't think its right...
+--: Society's ethics are changing every day.
+KK: ...at all. I don't think there not changing that much that it makes it ok.
+--: Yeah they are, with technology changing the way it is, it changes every day.
+KK: No. That does not change. Technology does not change morals and values.
+    Technology does not get into whether it is right or wrong to steal. It's 
+    still wrong to steal. It's still wrong to get inside the telephone's 
+    computer system and to steal from them. That's still wrong, its not right,
+    and technology has nothing to do with it, Bob. Ethics is something that, 
+    that we're raised with. If we lose, if we lose our morals, if we lose our
+    values, as a society, what do we have? We got enough chaos in the world.
+    Ok, I mean, take a look at what's happening in Bosnia. Ok, this is a 
+    computer show, we're gonna talk about Bosnia.
+MY: Blame it on the hackers. <sigh>
+KK: Would you...We're gonna blame Bosnia. Ok, we're gonna blame Bosnia.
+MR: It was interesting what you mentioned about, umm, that hackers are pretty
+    much unethical in your opinion, but what about Bill Gates?
+KK: What about Bill Gates? He's the chairman of Microsoft. Ok? I know who...
+MR: He's a hacker. 
+KK: I know...
+MR: And a hacker too.
+KK: And he's a hacker?
+MR: What about Mitch Kapor?
+KK: Ok, well I don't know those...
+MR: He's a hacker.
+KK: I have no information...
+MR: Author of Lotus 123.
+KK: I have no information...
+MR: And the gentleman that started the entire computer revolution, or actually
+    helped a big part in it, is Steve Jobs.
+KK: Ok, yeah, and he was, he...
+MR: He used to steal telephone service. He used to bluebox.
+KK: Ok, Yeah. The deal with, with, ah, Steve Jobs and Wozniak. Ok, for those 
+    of you that don't know this story, this is a true story. Its documented in
+    the history books. If you sign on to Prodigy, the online service, and look
+    at the history of computers you're gonna see the story in black and white 
+    on your screen. Ok, what these two guys did, these are the founders of 
+    Apple Computer. Ok? They went legitimate, but I'm gonna tell you what they
+    did before they went legitimate. Is a...in Captain Crunch in the mid 
+    seventies, there was a whistle. Ok, it was a prize in the cereal box. Now,
+    it...there was a certain way that if you used this whistle, and you were 
+    making a long distance phone call, you got the call for free. Alright? You
+    didn't have to pay. Now this was a whistle in a cereal box. This was a 
+    whistle in a Captain Crunch box. Ok, so what these two guys do is they 
+    figure out a way to make the whistle. Well, they make the whistle, or that
+    sound, using a modem, more or less. Now it gets into some technical stuff.
+    Ok, what they do is they start figuring out a way way to sell this. Yeah 
+    they sold it. Alright. Was it legitimate? No. Ok. Did they get in trouble?
+    Yes.
+MY: And they graduated on to better things.
+KK: And then they went legitimate, they grew up from hacking. And they went 
+    legitimate and they started Apple computer. And that's the deal with Steve
+    Jobs and Wozniak. I mean that...we're gonna go right back to the phones 
+    when we come back. I'm Kim Kommando on 910 KFYI.
+
+<commercial break>
+
+Intro Music: AC DC
+
+KK: We're back answering all those computer questions. Ending the traumas and 
+    tribulations. And, we're talking about hacking. Which I, ah, which I'm sure
+    you know I don't agree with if you listened to the show. And, and ah, Merc,
+    you asked if you could say something. What do you want to say?
+MY: Actually, you asked me to say it.
+MR: <laughs>
+MY: I said, well, well if your a computer, you'd be 60-babe-a-hertz. I don't 
+    know if anyone here has met Kim before, but she's pretty fine.
+KK: 60-babe-a-hertz. They, they call me the computer babe. We're gonna go to 
+    John in Mesa. You're on 910 KFYI, John
+--: Hi, Kim This is an outstanding program, I'm really enjoying it.
+KK: Well, thank you.
+--: Ah, you're never going to convince <laughs> your guests, and those people
+    who do that sort of thing. There's two things they could look at. They 
+    don't want to look at the Ten Commandments They don't want to look at the 
+    Preamble to the Constitution and the Bill of Rights.
+KK: That's a good point, John.
+--: And what the governments prescribed from doing literally is the whole 
+    concept of what our, ah, what our civil law depends on. So...
+KK: That's right. Take that away what do we have? Right?
+--: That's right, if you lose that...
+MY: Actually liberty is taken away.
+KK: Ok, what do we got? You know, if you take away the laws, if you take away
+    this, what do you have?
+MY: How much, how much privacy has the government allowed us to have?
+--: But we have an opportunity to stand up and fight the government all the 
+    way to the Supreme Court. And no other country in the world has that...
+KK: And that's...
+MY: And, meantime, the people all on the bottom all get hurt.
+--: <garbled>
+MY: I know an individual who was posting on a bulletin board about a year ago.
+    I don't even know his name, so it will be easy for me not to, to infringe 
+    anywhere here. But he was, he had gone to the department of motor vehicles.
+    He owned an auto store. He wanted a...the list of everyone in Arizona who
+    owned a Honda so he could send out a mailing list. The government, or the
+    department of motor vehicles, wanted to charge him three, three or four 
+    thousand dollars to do it. And I think his business ended up, ah...
+KK: That's a whole other issue, ok?
+MY: But, but its a privacy issue. And that's what's he...
+KK: I don't know, that gets into some...
+MY: They should give it away for free or not at all.
+KK: No. No. I, I... <laughs>
+--: Ok, I really didn't call, call to...
+KK: That's ok. You know what, John, I'm glad that, you know, that you called 
+    in to at least say "Hey, I agree with you." Ok but, ah, and I do, I 
+    appreciate that John.
+
+<Edited out John's confession of FSA (Flight Simulator Addiction) and various>
+<hardware questions.                                                          >
+
+KK: And John, I appreciate you calling in tonight sir.
+--: Ok, I sure thank you. Thank you for your program. Great program.
+KK: Thank you John. We've got one line open if you want to join in the 
+    conversation. 258-5394. 258-KFYI. Any computer question just pick up the 
+    phone and dial now.
+
+<commercial break>
+
+<This is the end of segment three.>
+                                           kfyi-593.pt4                                                                                        000666  000000  000000  00000055045 05403140622 011146  0                                                                                                    ustar 00                                                                000000  000000                                                                                                                                                                         KFYI Phoenix, 910 AM
+Kim Kommando Show 5-22-93
+Segment Four
+
+Cast of Speakers:
+KK: Kim Kommando
+MR: Mind Rape
+MY: Mercury
+B : Bruce
+--: Any caller
+A : Announcer
+
+Intro Music: Joe Satriani
+
+KK: And we're back answering all those computer questions, ending the traumas
+    and the tribulations here on 910 KFYI every Saturday six to eight. I'm Kim
+    Kommando. Let's go to Tom in Phoenix. Tom, you're on 910 KFYI.
+
+<Edited out Tom's terrible fears and worries about DOS 6.0 traumas.          >
+
+KK: Alrightie, we appreciate your calling in. If you want to join in the 
+    conversation, we got one line open. 258-5394. 258 KFYI. Lets go to Gary in
+    Phoenix. You're on 910 KFYI, Gary.
+--: Hi Kim.
+KK: Hi.
+--: First of all, I agree with John. You have a, have a great show here.
+KK: Well, thank you. I appreciate it Gary.
+--: Also, I have a comment concerning hacking, just real quick here. I, I agree
+    with you hacking is wrong, and ah, those who...
+KK: Why do you think its wrong, Gary? Tell me.
+--: Its morally wrong. I mean, its like the, ah, analogy of looking in 
+    someone's window.
+KK: Yeah, its just not nice, you know I mean...
+--: Invasion of privacy.
+KK: That's right.
+--: And, ah, those that can't understand that will some day when they grow up.
+KK: Yeah. <laughs> When they do grow up.
+--: Yes.
+KK: When they do go legitimate in their lives.
+--: Right. Well, the reason I called is I have a question concerning Prodigy.
+    I just heard a real interesting rumor, maybe you and Merc can answer it if
+    its true or not. You know how Prodigy is different than on Compuserve or 
+    Delphi where, on Prodigy, you have, ah, they send you the software. I 
+    understand Prodigy has a lawsuit against them concerning invasion of 
+    privacy, because with that software, they can go in and look at your hard
+    drive and see what kind of programs you are running there, like Word 
+    Perfect, Wordstar...
+KK: Yeah, you know what, there is, ah...that's an interesting point and yes, 
+    it is a rumor. Ah, I do not know if its true. Ah, I believe... Do I 
+    believe it happens? Yeah, I do. Ah, because, you know, if you look at, in 
+    the Prodigy directory after you use Prodigy...
+--: Yes.
+KK: ...there's, ah, there's something called a DAT file. And if you open up 
+    that DAT file, its a file directory of everything that you got on your 
+    computer. Alright?
+--: Yes.
+KK: Which means that it happens.
+--: Uhuh.
+KK: That somehow when you sign onto Prodigy it happens. Ok, they know that you
+    got Word Perfect 5.1, they know you got Wordstar, you know, whatever. 
+    Whatever, you know, whatever you got on there. Now as far as do they use 
+    that information, ah, I really don't know. Ah, you know, Merc, what do you
+    think?
+MY: Umm, actually, I wouldn't ever take the chances. I would use the Internet,
+    a non, a non-graphic space.
+KK: Ok but, but you know, but if you're using Prodigy, Gary...
+--: Yes.
+KK: Ok, you know, the bottom line is, is ah, you know, it is a rumor but do I 
+    think it happens? Yeah, I think so. Now is it, you know, is it a problem?
+    Ok? I don't think so.
+--: Would you classify it as hacking?
+KK: Ah, if...
+MR: No.
+KK: Ah, I don't, I don't think so. You know, I wouldn't...that's not hacking.
+MY: Maybe a one time hack for the programmer who wrote it to do that.
+KK: But, you know, I don't, I don't think that... Do I think that's right? No,
+    I do not think that's right. But Prodigy does do that. And is there...you
+    know, has it been in the news? Yeah it does. Yeah, it has been in the news
+    that they do make that DAT file. Now, I don't know what its used for. You 
+    know, sometimes people say, well, you know, I've got an illegal version of
+    Wordstar out there, ok?
+--: Yes.
+KK: Now Prodigy knows. So now I'm setting myself up, cause I'm, ah, you know,
+    to go against some copyright suits because I got an illegal copy of 
+    software on my hard disk. So, you know, ah, you know, I don't know if
+    there's any right, right answer for this. Other than do I think it happens?
+    Yeah. Yeah, I think it does.
+--: Ok, so, you can't confirm it. And, and I just heard it, just amazed me they
+    would be doing something like that.
+KK: You know what, Gary? You know what I'm gonna do is? I'm gonna, ah, I'm 
+    gonna write Prodigy a note this week. Ok?
+--: Ok.
+KK: And I'm gonna ask them your question and next week I'm gonna read you their
+    response.
+--: Great.
+KK: Ok?
+--: Ok.
+KK: And, ah, we'll see what Prodigy has to say.
+--: Sure, that would be good.
+KK: In their words.
+--: Ok.
+KK: Alrightie, I appreciate your calling in sir.
+--: Thanks. Fine.
+KK: And, ah, if you want to join in the conversation we got one line open. And,
+    and, Prodigy is an online service. Its pretty cool. You know, its got a lot
+    of good things on it. And ah, you know, if your a first time user, Prodigy
+    is really...its a, its a good product. Let's go to Bill in Mesa. Bill, 
+    you're on 910 KFYI.
+--: Howdy.
+KK: Hi.
+--: Yes, I have a friend. He, umm, has a bulletin board.
+KK: Ok.
+--: And he was running it for awhile. Somebody got in there twice and totally 
+    wiped it out. My question is, ah, is there ways the public out here can 
+    protect themselves? What are the common ways they get into their computers?
+KK: You know what, Bill? You bring up an interesting point that we should cover.
+    And I appreciate you calling in and asking it. Because the way that someone
+    can get in your computer, number one, is if, is if you, ah, leave your 
+    computer on, and you leave it tied in with the modem on. Ok, or, you know,
+    you have the modem, you know, hooked in. You got the phone line in. So all
+    somebody has to do is tie in, tie in through a regular telephone line. And
+    if your computer is set up that way, then yes, they can get in your 
+    computer. Ok? And its not a difficult thing to do as, as these two, ah, 
+    gentlemen here have been, have been expressing. You know, how easy it is.
+    Ah, if there's...as far as different things you can do, there's, there 
+    certainly is security software. Most bulletin board services... I'm 
+    surprised that he has had that happen. Because will ask you to, ah, to 
+    enter in your, you know, your first, your last name, your ID, and, ah, and
+    so on and so forth, like Mustang. But, ah, let me ask you Mind Rape, what 
+    can, what can a person do to prevent somebody like you from getting in 
+    their computer?
+MR: Well, first off, if its, its a bulletin board system. Ok, I'm not surprised
+    that someone has gotten in. Because most bulletin board system software has
+    been poorly written. Even Wildcat.
+KK: Well, its, its shareware, ok?
+MR: Ok. And people who do this aren't really hackers. They go in there and 
+    they, you know, eliminate people's drives. They destroy them. That is not
+    a hacker. That is, ah, you know, a board crasher.
+KK: They're not hackers?
+MY: No, they're a crasher.
+MR: They're a board crasher. They go in there purposefully...
+KK: Oh, this is a different one.
+MR: They harm the sysop. We don't want to bother sysops. We don't want to 
+    bother system administrators. We don't want to damage anything. By doing 
+    that, you upset the natural way, the natural way the system operates.
+KK: Ok, now what can... I don't want to get into...
+MR: Ok.
+KK: ...what's the difference between crasher and a hacker right now. Let's
+    answer the question. What can a person do, to prevent, you know, as a 
+    precaution, So that somebody who is a crasher or hacker, or whatever you
+    want to call, you know, yourselves...
+??: Uhuh.
+KK: What, what can they do to prevent themselves from getting... What can you
+    do as a safety measure?
+MY: I would say use a, ah, a software, a version of software that's known to 
+    be secure. And I wouldn't dare say...
+KK: What does that mean?
+MY :I wouldn't dare say that all, all bulletin software is secure because I'm
+    sure all of...everything out there has bugs in it.
+KK: What about, like, you know...no, give me some names...
+MY: Major BBS is fairly, ah, is fairly, ah, secure.
+KK: No. Security software. Do you know any names of any...
+MY: I meant,. I meant use a bulletin board software that's known to be more 
+    secure.
+KK: And what would that be?
+MY: Major BBS for one.
+KK: Ok. And, ah, what else?
+MY: Breadfan.
+KK: Breadfan. Does that answer your question Bill?
+--: Well, how about Telix? Telix has like a quick host. And, is that gonna be  
+    one that will have a lot of problems?
+MR: Umm, Telix is a telecommunications program as you already know and it will
+    not allow people to drop to DOS. Ok? It puts them in a terminal mode. You
+    would have to actually run a program called Doorway that would allow them to
+    drop to DOS and actually mess around on your hard drive.
+--: So if I wanted to, ah, remote boot to my own computer, umm, I'd be able to
+    do that, as long as I don't use Doorway.
+MR: I would suggest a software called PC Anywhere.
+KK: Or, there's another one called, ah, Carbon Copy put out by Microcom that 
+    does the same thing though.
+MY: Right.
+MR: And its those kind of software will offer more security features.
+KK: Yeah, cause what you have to do is you have to log in. Ok? You gotta log 
+    in, enter, ah, you know, I think there's three or four levels of security
+    You know, where you have to to enter in various levels of passwords in 
+    order to get in there.
+MY: And remove any defaults that, ah, that come from the manufacturer.
+--: Do these people get together and compare different ways they figure out how
+    to get into these kind of programs?
+MY: Not as much as they used to.
+KK: Do you swap stories? You do?
+MY: With each other, maybe.
+KK: I mean, is this like, I mean do you sit around the fire and say hey I got 
+    into this computer, bud. Let me show you how to access...
+MY: That's how most hackers get caught. Talking too much.
+KK: Ok, so, so, ok, but they get caught.
+MY: Right.
+KK: Ok, they get...hackers get caught. Let's listen to that sentence. Hackers
+    get caught.
+MY: Right.
+KK: Ok, now. Thieves get caught.
+MY: Right.
+KK: Hackers get caught.
+MY: Right.
+KK: Hackers are thieves.
+MY: No.
+MR: No. Dogs can get caught by dog catchers.
+KK: Ok, but hackers get caught. Ok, that, that means they're not doing 
+    something right. And Bill, I appreciate you calling in, sir. We've got one
+    line open if you want to join in. 258-5394. 258-KFYI. Let's go to Ray in 
+    Scottsdale. Ray, you're on 910 KFYI.
+--: Hi gang, how ya doing.
+KK: Good.
+--: Ok.
+MY: Mediocre.
+--: Ummm... <laughs> I can see why. Ummm, just to let you know, this is Ray 
+    Moore, the president of the PC User group. And I want to address your 
+    guests Kim. First of all, their mixing a lot of metaphors and they're 
+    trying to take the, ah, its just like in that last sentence, dogs get 
+    caught. You know, we're not talking about dogs. We're talking about people 
+    doing things they're not supposed to.
+KK: People. That's right Ray. We're talking about people. We're not, we're not
+    dogs. Ok.
+--: They're also using the metaphors of walking by a window and if just happen
+    to be walking by and you happen not to close the window and if they happen
+    to catch a glance of, of someone changing their clothes, that's ok because
+    its the persons fault for not closing the window. Well, they're not just
+    happening to be walking by. They're deliberately going out there, they're
+    looking for systems...
+KK: They're peepers...
+--: They're, well, they're worse than that. They're, they're trying to find 
+    people home. But getting, getting away from the metaphors, they're 
+    deliberately going out there, they're looking for systems online, and, 
+    granted there may be a couple that don't have any kind of security, but
+    that's very rare. But they're going and they're having to get past 
+    someone's security, so if you want to use another analogy, breaking and 
+    entering. And, ummm, that's another point that needs to be brought up.
+    There's also, you're saying, ah, about the whole ethics issue, your saying
+    well, its ethical to us. There's also the thing as honor amongst thieves,
+    but would you say that thieves are ethical people?
+KK: Would you? Come on, now...
+MY: Well, thieves aren't, but we don't steal.
+--: But that's not the point. There's, there's honor amongst murderers.
+MR: Oh, I thought that was the point.
+--: No. No. No. No.
+MR: Thieves get caught. Hackers get caught. So the analogy there is supposed 
+    to be hackers are thieves.
+--: And you say no hackers, ah...thieves.
+MY: I would say there have been hackers that steal but because they steal, 
+    that doesn't make them a hacker. You can't...
+KK: But Mind Rape, you got busted for stealing. Ok, you got busted once.
+MR: Yes, I...
+MY: That didn't make him a hacker though. 
+KK: Ok, but, ok, you weren't a hacker then? What were you then?
+MY: I'm not saying that thieves can't be hackers. I'm saying just because they
+    steal that doesn't make them a hacker. There's more to being a hacker.
+MR: Its a state of mind.
+--: But what you're doing...
+MR: Its a state of mind. Its the way we think.
+--: No, its not a state of mind.
+MR: Yes it is.
+--: No.
+MR: Its the way we get creative.
+--: No, well...
+MR: Most of your systems out there, some of them are really secure and stuff 
+    like that, and it takes some creativity just to get in these systems.
+--: It doesn't take creativity for a thief to go in and break into a car, or 
+    break into someone's house, or break into something else?
+MR: We don't care about valuables. We don't care about financial gain and stuff
+    like that. All we want to do is learn.
+--: But you can go to school for learning. And you're saying...
+MR: Schools out there are sucky.
+--: No. No, hear me out. Hear me out. You've had your chance to talk for a 
+    couple hours here. You're saying hacking is a school. Is that what you're
+    trying to say?
+MR: It's a method of learning.
+--: Ok, so is sitting down and trying to devise things on your own but without
+    going into someone else's resources. Its like saying when criminals get 
+    caught and they go to jail, and they learn how to be better criminals 
+    because talk to more hardened criminals.
+KK: That's right.
+--: And you're saying that's a school. And what employer do you think is going
+    to hire you and look at you and say well lets see your credentials and you
+    say well I hacked into this system.
+KK: Let's, let's, you know, let's put this on our resume.
+--: Yes.
+KK: Let's, let's put this on our resume. Let's say that...
+MR: I don't mind putting it on my resume. But to address your question...
+    One, I don't have the money for school, ok? Second of all, I don't have the
+    money to buy a Cray and the software to learn from it. Ok? If you're 
+    willing to give me money. Fine, I'll do it.
+KK: Yeah, but...
+MR: I don't have the money, so, I have to find these resources on my own. Even
+    if it does, or takes, illegal means to do it.
+KK: If it takes, even if it takes illegal means to do it.
+MR: But I want to learn! Is that the crime, here? Wanting to learn?
+KK: Not at all. But there are...
+MR: But, but, It seems like it is!
+KK: Learning is a wonderful thing. Learning is great. I mean, every...I propose
+    education everywhere, where ever I go. I'm on the board of the Consumer 
+    Education, you know, board of Software Publisher's Association, just for 
+    consumer education. So we get computers out there so people can use 
+    computers.
+MR: Let me give you...
+KK: There are other ways to learn other than getting inside of a computer.
+MR: Computers allow me to access information very fast. Ok? I learn very fast.
+    And by using computers, it allows me to work at my own pace. Which is, you
+    know, very fast. And, in school they move very slow. They cover chapter in
+    three weeks. I can cover that chapter in five minutes.
+KK: You can't beat formal education.
+MR: Formal education doesn't work.
+KK: Yes it does.
+MR: It doesn't work for me.
+KK: Look around you. Look around you.
+MR: In high school, I was a very bored person. I got good grades in high 
+    school, but yet I was a very bored person. I had nothing to do. So I turned
+    to computer and started learning from that.
+KK: Ok, and computers can do a lot for you.
+MR: That's right.
+KK: Computers can do wonderful things....
+MR: Even in my computer class, my teachers encouraged me to explore.
+KK: That's good.
+MR: Because I...the computer classes were too simple. So they said here, learn
+    from these books. Well, I'm done. Well, here here...
+KK: Well, I'm sorry that you're brighter than the most people out there.
+MR: Its not just me. Its a lot of hackers. A lot of these hackers are in the
+    same situation.
+KK: But, the bottom line in all this, ok, is that you can go to school. There 
+    is a such thing as financial aid. Ok. You can find a class, you can 
+    befriend a dean at a university. Ok. I was one of these people that thought
+    I was to smart to go through computer classes.
+MR: No, I'm not...
+KK: Ok, let me finish. Alright? Ok. What I did was I started my own company 
+    when I was going to school. Because I know the value of a piece of paper.
+    Could I have worked for IBM without that piece of paper? No. Did I turn to
+    hacking in order to learn? No. Ok, I did it the right way. And that's the 
+    way that it should be done. It shouldn't be done going into somebody else's 
+    homes. I'm Kim Kommando here on 910 KFYI.
+
+<commercial break>
+
+Intro Music: <should know it, dammit, but don't>
+
+KK: We're back. And we're talking about whether or not its right to be hackers
+    in our lives. Whether or not we should use this as a way to make ourselves
+    better members of society. Whether or not, the, the ah, as Mind Rape says,
+    he couldn't learn what he learns by hacking in schools. Well I have to 
+    remind you, Mind Rape and Merc here, that in Arizona and in the 49 other
+    states, here... And as one of our callers said, you know there's certain 
+    rules that we abide by that allow us to live in the United States of 
+    America, and it makes it a good country. Now in Arizona and the 49 other
+    states, unauthorized access, two words, unauthorized access is a class 6 
+    felony. Ok, its a felony. It's wrong. Its not right to do. Now, if you go
+    in there and do something bad, ok, you're up on the felony echelon, here,
+    ok. Unlike how you got busted for telephone fraud. Its a class 6 felony.
+    Is it wrong for it to be a class 6 felony? I mean, is it wrong, 
+    unauthorized access?
+MY: Well, you have to remember, the people who made these laws are not the most
+    computer literate people. You have to consider...
+KK: So, our laws are wrong?
+MY: Well, is it...
+KK: Our laws are not good.
+MY: Ummm, its not for me to judge. Its not in my opinion. I don't think all 
+    laws are clearly written.
+KK: Ok, so, our laws are wrong?
+MY: Is that all it says?
+KK: The laws are not right.
+MY: Is that all it says?
+KK: I don't have, I don't have it here in front of me.
+MY: Its probably a lot more, a lot more, a lot more accurate than that...
+KK: It is a class 6 felony. The bottom line is unauthorized access is a class 6
+    felony. That's what it is. What you're doing is wrong. It's not right. It's
+    wrong. And our laws are written by the people, for the benefit of the 
+    people. Ok, it's a class 6 felony. And that's why you got busted. Let's go
+    to the phones. George, in Phoenix, your on 910 KFYI.
+--: Hi Kim. I'm really enjoying the program.
+KK: Thank you.
+--: Ummm, I have little bit, little bit different, ah, view from this, ah on 
+    this, ah, hacking situation. First of all, these guys, to me, sound like 
+    they're brilliant. And they're very bored.
+KK: George, you have to be smart in order to hack. I agree with ya.
+--: Exactly.
+KK: Ok.
+--: And they're very bored. And they really need a challenge. I would think
+    it would be very advantageous for businesses, large corporations, to hire 
+    these people to try to break into their systems so that they can find the 
+    flaws in it.
+KK: Which, yeah George, its happened.
+MY: It's been done.
+KK: That's what they're doing.
+MY: I'll comment on that after...
+--: No, I mean, paid...have the... I don't just mean do it on their own. I mean 
+    for the corporations to hire them to do this so they can improve their 
+    systems so they aren't able to break in, to be broke into.
+KK: So we know we have a career for you guys, ok.
+MR: I...
+--: Exactly. I mean really, these guys... Who would look your house over to 
+    tell you how to protect it from a burglar?
+KK: That's right.
+--: Somebody's that's done that in the past.
+MY: There's...
+--: Now these guys are not doing anything really bad, ah, with respect to 
+    stealing and changing data and so forth, then they have knowledge we need 
+    to, to umm, to use for our benefit.
+KK: And George...
+--: We're not just gonna say go away and they disappear. They're gonna, they're
+    gonna be doing this, until they, you know...
+KK: And George, I appreciate it. Because, you know, your absolutely right and 
+    it has been done. In, ah, in San Francisco there was a company up there who
+    actually hired hackers.
+--: Uhuh.
+KK: To break into their system and to tell them where the flaws were.
+--: Exactly.
+KK: So that this way they knew where all the parts were of that system that 
+    could be broken into by the bad hackers in the world, if there is such a
+    thing as bad hackers.
+--: Uhuh.
+KK: Ok, and, now, my personal feeling is that, that its not hackers...its, its
+    not right. Its a class 6 felony. Its wrong. Its a wrong thing to do. It's 
+    un...
+--: Yes. It is wrong.
+KK: Yeah. It's unauthorized access...
+--: But if these guys have that ability, then there's other people that have 
+    that ability that are not gonna be, ah, unscrupulous about it. They're 
+    gonna make the adjustments. They're gonna make the changes. They're gonna
+    steal the data. So what we need to do is get somebody that can teach other
+    people how to protect their systems.
+KK: And, you're absolutely right George. And I appreciate you for calling in and
+    bringing up that comment. Take command of your computer. Well, it's 
+    copyrighted 1993 by the Broadcast Group. All rights are reserved. I'm Kim 
+    Kommando. We've been taking command of that computer. Every Saturday six to
+    eight pm, here on 910 KFYI.
+
+Exit Music...
+
+<This is the end of segment four and the end of the program.>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
