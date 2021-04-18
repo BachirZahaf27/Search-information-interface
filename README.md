@@ -135,28 +135,35 @@ pour l'accée au document aprer la recherche en utilise la méthode de MouseClic
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # VI- Capture de fenetre:
-1)Login.java.
+
+# 1)Login.java.
 
 ![login](https://user-images.githubusercontent.com/61596276/115130985-2f530400-9fec-11eb-8cae-ed665c15306b.PNG)
+![login_succeed](https://user-images.githubusercontent.com/61596276/115154220-aed6e680-a071-11eb-991b-da8e25cb43e1.PNG)
+![login_fail](https://user-images.githubusercontent.com/61596276/115154227-b1d1d700-a071-11eb-8810-a120e9d89180.PNG)
 
-
-2)Choice.java.
+# 2)Choice.java.
 
 ![choice](https://user-images.githubusercontent.com/61596276/115131010-66c1b080-9fec-11eb-9be3-4e9eadf65214.PNG)
 
 
-3)name.java.
+# 3)name.java.
 
 ![name](https://user-images.githubusercontent.com/61596276/115131025-835de880-9fec-11eb-8bb8-98e4c3b90e85.PNG)
+![name_resultat](https://user-images.githubusercontent.com/61596276/115154048-cf527100-a070-11eb-8dde-184623f8fcad.PNG)
+![name_fail](https://user-images.githubusercontent.com/61596276/115154239-bc8c6c00-a071-11eb-8e2c-421d12aa68a3.PNG)
 
 
-4)author.java.
+# 4)author.java.
 
-![author](https://user-images.githubusercontent.com/61596276/115131031-8ce75080-9fec-11eb-96d5-0e9c8fcac339.PNG)
+![author](https://user-images.githubusercontent.com/61596276/115154024-b649c000-a070-11eb-9b89-182e840c8ea7.PNG)
+![author_resultat](https://user-images.githubusercontent.com/61596276/115154022-b47ffc80-a070-11eb-912e-856f10dbac49.PNG)
+![author_fail](https://user-images.githubusercontent.com/61596276/115154284-feb5ad80-a071-11eb-91b5-2c350dae1ec0.PNG)
 
-
-5)word.java.
+# 5)word.java.
 ![word](https://user-images.githubusercontent.com/61596276/115131035-9a9cd600-9fec-11eb-8183-e9e4704e9213.PNG)
+![word_resultat](https://user-images.githubusercontent.com/61596276/115154080-ee510300-a070-11eb-9da6-c8f718293e43.PNG)
+![name_fail](https://user-images.githubusercontent.com/61596276/115154293-083f1580-a072-11eb-9459-eabc1b48674a.PNG)
 
   
   
