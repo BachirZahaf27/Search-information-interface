@@ -121,14 +121,22 @@ pour l'accée au document aprer la recherche en utilise la méthode de MouseClic
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # VI- Capture de fenetre:
-1)Login.java
+1)Login.java.
 ![login](https://user-images.githubusercontent.com/61596276/115130985-2f530400-9fec-11eb-8cae-ed665c15306b.PNG)
+
+
 2)Choice.java
 ![choice](https://user-images.githubusercontent.com/61596276/115131010-66c1b080-9fec-11eb-9be3-4e9eadf65214.PNG)
+
+
 3)name.java
 ![name](https://user-images.githubusercontent.com/61596276/115131025-835de880-9fec-11eb-8bb8-98e4c3b90e85.PNG)
+
+
 4)author.java
 ![author](https://user-images.githubusercontent.com/61596276/115131031-8ce75080-9fec-11eb-96d5-0e9c8fcac339.PNG)
+
+
 5)word.java
 ![word](https://user-images.githubusercontent.com/61596276/115131035-9a9cd600-9fec-11eb-8183-e9e4704e9213.PNG)
 
