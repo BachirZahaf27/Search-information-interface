@@ -48,7 +48,8 @@ base de donnée est essentiel pour la fonctionnement de project, et on peu facil
 *avec cette méthode:
 
                       Class.forName("org.sqlite.JDBC");
-                      Connection conn =DriverManager.getConnection("jdbc:sqlite:auteur.db"); (avec <auteur.db> est la base de donnée).
+                      Connection conn =DriverManager.getConnection("jdbc:sqlite:auteur.db"); 
+		      (avec <auteur.db> est la base de donnée).
    
 *la base de donnée est construire de 3 tableau:
   
