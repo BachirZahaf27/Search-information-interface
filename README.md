@@ -7,8 +7,8 @@ faire in interface qui chercher une information donnée sur un ensemble du docum
   il fair la recherche du document avec le même nom donnée sur le bar de recherche, pour cette méthode on peu utilise cette requet:
   
                         sql="SELECT * FROM document WHERE Name_document LIKE '%"+nom+"%'";
-			  (avec <nom> et le mot entre par le utilisateur).
-  
+			    (avec <nom> et le mot entre par le utilisateur).
+   
   alors il va commparer le nom donnée avec les nom des documents sur la base de donnée et il va afficher les documents avec le même nom donnée sur le bar de recherche.
   pour plus de information voir le fiche java name.java.
 
@@ -18,7 +18,7 @@ faire in interface qui chercher une information donnée sur un ensemble du docum
   *le premier :
   
            sql="SELECT * FROM document WHERE Author LIKE '%"+auteur_nom+"%'";
-	     (avec <auteur_nom> et le mot entre par le utilisateur).
+	       (avec <auteur_nom> et le mot entre par le utilisateur).
 	   
   alors il va commparer le nom de auteur donnée avec les nom de auteur des documents sur la base de donnée et il va afficher les documents avec le même nom de auteur donnée sur   le bar de recherche.
   *la deuxième :
