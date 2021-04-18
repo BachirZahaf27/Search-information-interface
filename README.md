@@ -8,13 +8,14 @@ faire in interface qui chercher une information donnée sur un ensemble du docum
                         sql="SELECT * FROM document WHERE Name_document LIKE '%"+nom+"%'"; (avec <nom> et le mot entre par le utilisateur).
   
   alors il va commparer le nom donnée avec les nom des documents sur la base de donnée et il va afficher les documents avec le même nom donnée sur le bar de recherche.
-  pour plus de information voir le fiche java name.java
+  pour plus de information voir le fiche java name.java.
 
 
   # 2)recherche avec le auteur de document:
-  il fair la recherche du document et l'auteur avec le même nom donnée sur le bar de recherche, pour cette méthode on peu utilise cette 2 requet,
+  il fair la recherche du document et l'auteur avec le même nom donnée sur le bar de recherche, pour cette méthode on peu utilise cette 2 requet.
   *le premier :
            sql="SELECT * FROM document WHERE Author LIKE '%"+auteur_nom+"%'";(avec <auteur_nom> et le mot entre par le utilisateur).
+	   
   alors il va commparer le nom de auteur donnée avec les nom de auteur des documents sur la base de donnée et il va afficher les documents avec le même nom de auteur donnée sur   le bar de recherche.
   *la deuxième :
            sql2 ="select * from auteur where Family_name_author=? ";           
@@ -29,8 +30,10 @@ faire in interface qui chercher une information donnée sur un ensemble du docum
   # 3)recherche avec le contunu de document:
   il fair la recherche de mot sur un ensemble du documents avec le même mot donnée sur le bar de recherche, pour cette méthode on peu utilise l'indextion des document,
   aprer ça en peu rechercher sur les document avec cette code :
+  
      ArrayList<String> mylist=new ArrayList<String>();
                     mylist=tester.search(mot);(avec <mot> et le mot entre par le utilisateur).
+		    
   pour plus de information voir le fiche java word.java, Indexer.java, Searcher.java,LuceneConstants.java .
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -39,12 +42,12 @@ faire in interface qui chercher une information donnée sur un ensemble du docum
 base de donnée est essentiel pour la fonctionnement de project, et on peu facilement la connecter avec le projet .
 *avec cette méthode:
                       Class.forName("org.sqlite.JDBC");
-                      Connection conn =DriverManager.getConnection("jdbc:sqlite:auteur.db"); (avec <auteur.db> est la base de donnée)
+                      Connection conn =DriverManager.getConnection("jdbc:sqlite:auteur.db"); (avec <auteur.db> est la base de donnée).
    
 *la base de donnée est construire de 3 tableau:
   
   # 1)login:
-  cette tableau et mis en place pour le accéc de utisateur (pour le moment le username est :1 et mot de passe est:1)
+  cette tableau et mis en place pour le accéc de utisateur (pour le moment le username est :1 et mot de passe est:1).
   
   CREATE TABLE "login" (
 	"ID"	INTEGER NOT NULL,
@@ -53,7 +56,7 @@ base de donnée est essentiel pour la fonctionnement de project, et on peu facil
 	PRIMARY KEY("ID" AUTOINCREMENT)
 )
  # 2)document:
- cette tableau et mis en place pour le stockage de (nom, auteur et le chamin) des documents
+ cette tableau et mis en place pour le stockage de (nom, auteur et le chamin) des documents.
  
  CREATE TABLE "document" (
 	"ID"	INTEGER NOT NULL,
@@ -64,7 +67,7 @@ base de donnée est essentiel pour la fonctionnement de project, et on peu facil
 )
   
   # 3)auteur:
-  cette tableau et mis en place pour le stockage de (nom,prenom et bio) des auteur des documents
+  cette tableau et mis en place pour le stockage de (nom,prenom et bio) des auteur des documents.
   
   CREATE TABLE "auteur" (
 	"ID"	INTEGER NOT NULL,
@@ -77,8 +80,8 @@ base de donnée est essentiel pour la fonctionnement de project, et on peu facil
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 # III- Accée au inteface:
- pour entre a l'interface et fair des recherches il faux d'abord avoir la pemition , et la en parle sur la fenetre  L ogin.java
- qui vairifier ton compte(username et password) si tu existe sur la base de donnée ou non
+ pour entre a l'interface et fair des recherches il faux d'abord avoir la pemition , et la en parle sur la fenetre  Login.java,
+ qui vairifier ton compte(username et password) si tu existe sur la base de donnée ou non.
  *avec cette requet:
                     sql = "select ID,USERNAME,PASSWORD from login Where (USERNAME =? and PASSWORD =?)";
                    try{
@@ -125,19 +128,19 @@ pour l'accée au document aprer la recherche en utilise la méthode de MouseClic
 ![login](https://user-images.githubusercontent.com/61596276/115130985-2f530400-9fec-11eb-8cae-ed665c15306b.PNG)
 
 
-2)Choice.java
+2)Choice.java.
 ![choice](https://user-images.githubusercontent.com/61596276/115131010-66c1b080-9fec-11eb-9be3-4e9eadf65214.PNG)
 
 
-3)name.java
+3)name.java.
 ![name](https://user-images.githubusercontent.com/61596276/115131025-835de880-9fec-11eb-8bb8-98e4c3b90e85.PNG)
 
 
-4)author.java
+4)author.java.
 ![author](https://user-images.githubusercontent.com/61596276/115131031-8ce75080-9fec-11eb-96d5-0e9c8fcac339.PNG)
 
 
-5)word.java
+5)word.java.
 ![word](https://user-images.githubusercontent.com/61596276/115131035-9a9cd600-9fec-11eb-8183-e9e4704e9213.PNG)
 
   
