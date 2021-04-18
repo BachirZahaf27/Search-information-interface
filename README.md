@@ -1,11 +1,13 @@
 # Search-information-interface
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # I- Objectif:
 faire in interface qui chercher une information donnée sur un ensemble du document textual , on construit 3 méthode de recherche d'information :
 
   # 1)recherche avec le nom de document:
   il fair la recherche du document avec le même nom donnée sur le bar de recherche, pour cette méthode on peu utilise cette requet:
-                        sql="SELECT * FROM document WHERE Name_document LIKE '%"+nom+"%'"; (avec <nom> et le mot entre par le utilisateur).
+  
+                        sql="SELECT * FROM document WHERE Name_document LIKE '%"+nom+"%'";
+			(avec <nom> et le mot entre par le utilisateur).
   
   alors il va commparer le nom donnée avec les nom des documents sur la base de donnée et il va afficher les documents avec le même nom donnée sur le bar de recherche.
   pour plus de information voir le fiche java name.java.
@@ -15,10 +17,11 @@ faire in interface qui chercher une information donnée sur un ensemble du docum
   il fair la recherche du document et l'auteur avec le même nom donnée sur le bar de recherche, pour cette méthode on peu utilise cette 2 requet.
   *le premier :
   
-           sql="SELECT * FROM document WHERE Author LIKE '%"+auteur_nom+"%'";(avec <auteur_nom> et le mot entre par le utilisateur).
+           sql="SELECT * FROM document WHERE Author LIKE '%"+auteur_nom+"%'";
+	   (avec <auteur_nom> et le mot entre par le utilisateur).
 	   
   alors il va commparer le nom de auteur donnée avec les nom de auteur des documents sur la base de donnée et il va afficher les documents avec le même nom de auteur donnée sur   le bar de recherche.
-  la deuxième :
+  *la deuxième :
   
            sql2 ="select * from auteur where Family_name_author=? ";           
             stmt=conn.prepareStatement(sql2);
@@ -33,7 +36,7 @@ faire in interface qui chercher une information donnée sur un ensemble du docum
   il fair la recherche de mot sur un ensemble du documents avec le même mot donnée sur le bar de recherche, pour cette méthode on peu utilise l'indextion des document,
   aprer ça en peu rechercher sur les document avec cette code :
   
-                ArrayList<String> mylist=new ArrayList<String>();
+                    ArrayList<String> mylist=new ArrayList<String>();
                     mylist=tester.search(mot);(avec <mot> et le mot entre par le utilisateur).
 		    
   pour plus de information voir le fiche java word.java, Indexer.java, Searcher.java,LuceneConstants.java .
@@ -43,6 +46,7 @@ faire in interface qui chercher une information donnée sur un ensemble du docum
 # II- Base de donnée :
 base de donnée est essentiel pour la fonctionnement de project, et on peu facilement la connecter avec le projet .
 *avec cette méthode:
+
                       Class.forName("org.sqlite.JDBC");
                       Connection conn =DriverManager.getConnection("jdbc:sqlite:auteur.db"); (avec <auteur.db> est la base de donnée).
    
@@ -104,6 +108,7 @@ si ton compte existe sur la base de donnée alors le fenetre de choix ovrire
       1)recherche avec le nom de document.
       2)recherche avec le auteur de document.
       3)recherche avec le contunu de document.
+      
 # il faux just choisire votre méthode:
 et il va ovrire pour ferre la recherche.
 
@@ -131,18 +136,22 @@ pour l'accée au document aprer la recherche en utilise la méthode de MouseClic
 
 # VI- Capture de fenetre:
 1)Login.java.
+
 ![login](https://user-images.githubusercontent.com/61596276/115130985-2f530400-9fec-11eb-8cae-ed665c15306b.PNG)
 
 
 2)Choice.java.
+
 ![choice](https://user-images.githubusercontent.com/61596276/115131010-66c1b080-9fec-11eb-9be3-4e9eadf65214.PNG)
 
 
 3)name.java.
+
 ![name](https://user-images.githubusercontent.com/61596276/115131025-835de880-9fec-11eb-8bb8-98e4c3b90e85.PNG)
 
 
 4)author.java.
+
 ![author](https://user-images.githubusercontent.com/61596276/115131031-8ce75080-9fec-11eb-96d5-0e9c8fcac339.PNG)
 
 
