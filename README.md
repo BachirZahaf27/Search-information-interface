@@ -34,7 +34,10 @@ base de donnée est essentiel pour la fonctionnement de project, et on peu facil
 	                               "PASSWORD"	VARCHAR NOT NULL,
 	                               PRIMARY KEY("ID" AUTOINCREMENT)
                           )
-                       
+			  
+  ![tab1](https://user-images.githubusercontent.com/61596276/115490010-21ec8280-a255-11eb-8271-9acadb230000.PNG)
+
+
  # 2)document:
  cette tableau et mis en place pour le stockage de (nom, auteur et le chamin) des documents.
  
@@ -45,7 +48,8 @@ base de donnée est essentiel pour la fonctionnement de project, et on peu facil
 		                              "Path_document"	VARCHAR NOT NULL,
 		                              PRIMARY KEY("ID" AUTOINCREMENT)
    	                         )
-  
+  ![tab2](https://user-images.githubusercontent.com/61596276/115490025-29ac2700-a255-11eb-811a-26001c041e01.PNG)
+
   # 3)auteur:
   cette tableau et mis en place pour le stockage de (nom,prenom et bio) des auteur des documents.
   
@@ -58,7 +62,8 @@ base de donnée est essentiel pour la fonctionnement de project, et on peu facil
 		                              PRIMARY KEY("ID" AUTOINCREMENT)
                            )
                            
-  
+  ![tab3](https://user-images.githubusercontent.com/61596276/115490033-2f097180-a255-11eb-9042-e3f35395b1e7.PNG)
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 # III- Accée au inteface:
