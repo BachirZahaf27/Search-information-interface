@@ -2,7 +2,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # I- Objectif:
 faire in interface qui chercher une information donnée sur un ensemble du document textual , 
-* on construit 3 méthode de recherche d'information :
+* *on construit 3 méthode de recherche d'information :
+
                                                      1)recherche avec le nom de document.        ///name.java
                                                      2)recherche avec le auteur de document.     ///author.java
                                                      3)recherche avec le contunu de document.    ///word.java
