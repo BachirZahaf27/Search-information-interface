@@ -62,8 +62,9 @@ base de donnée est essentiel pour la fonctionnement de project, et on peu facil
 	"PASSWORD"	VARCHAR NOT NULL,
 	PRIMARY KEY("ID" AUTOINCREMENT)
     )
-    ![tab1](https://user-images.githubusercontent.com/61596276/115488859-1ef09280-a253-11eb-8f04-e81a57dba1d1.PNG)
-
+    
+    
+ ![tab1](https://user-images.githubusercontent.com/61596276/115488983-52cbb800-a253-11eb-996e-277ac64b67d7.PNG)
  # 2)document:
  cette tableau et mis en place pour le stockage de (nom, auteur et le chamin) des documents.
  
