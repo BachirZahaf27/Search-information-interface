@@ -141,13 +141,17 @@ et il va ovrire pour ferre la recherche.
 This class is used to index the raw data so that we can make it searchable using the Lucene library.
 
 Indexer.java
+![indexing_process](https://user-images.githubusercontent.com/61596276/115490820-c15e4500-a256-11eb-8462-3c0829425dad.jpg)
+https://www.tutorialspoint.com/lucene/lucene_indexing_process.htm
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # VII- recherche :
 This class is used to search the indexes created by the Indexer to search the requested content.
 Searcher.java
+![searching_process](https://user-images.githubusercontent.com/61596276/115490959-fa96b500-a256-11eb-9324-be54efe56976.jpg)
 
+https://www.tutorialspoint.com/lucene/lucene_search_operation.htm
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # VIII- Ovriture de document:
