@@ -90,7 +90,7 @@ si ton compte existe sur la base de donnée alors le fenetre de choix ovrire
       2)recherche avec le auteur de document.
       3)recherche avec le contunu de document.
       
-# il faux just choisire votre méthode:
+il faux just choisire votre méthode:
 et il va ovrire pour ferre la recherche.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
