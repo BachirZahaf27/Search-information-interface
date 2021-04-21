@@ -1,7 +1,5 @@
 # Search-information-interface
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Search-information-interface
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # I- Objectif:
 faire in interface qui chercher une information donnée sur un ensemble du document textual , 
 * on construit 3 méthode de recherche d'information :
