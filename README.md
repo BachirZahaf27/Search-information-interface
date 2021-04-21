@@ -4,9 +4,9 @@
 faire in interface qui chercher une information donnée sur un ensemble du document textual , 
 * *on construit 3 méthode de recherche d'information :
 
-                                                     1)recherche avec le nom de document.        ///name.java
-                                                     2)recherche avec le auteur de document.     ///author.java
-                                                     3)recherche avec le contunu de document.    ///word.java
+                                          1)recherche avec le nom de document.        ///name.java
+                                          2)recherche avec le auteur de document.     ///author.java
+                                          3)recherche avec le contunu de document.    ///word.java
  * on a besion a une base de donnée.
  * on a besion a une méthode pour accée au l'interface.
  * on a besion a une méthode pour choisir la méthode de recherche.
@@ -135,19 +135,20 @@ et il va ovrire pour ferre la recherche.
                     mylist=tester.search(mot);(avec <mot> et le mot entre par le utilisateur).
 		    
   pour plus de information voir le fiche java word.java, Indexer.java, Searcher.java,LuceneConstants.java .
--------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # VI- Indextion:
 This class is used to index the raw data so that we can make it searchable using the Lucene library.
+
 Indexer.java
 
--------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # VII- recherche :
 This class is used to search the indexes created by the Indexer to search the requested content.
 Searcher.java
 
--------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # VIII- Ovriture de document:
 pour l'accée au document aprer la recherche en utilise la méthode de MouseClick pour la séléctionement de document qui nous vons ovrir.
