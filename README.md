@@ -1,7 +1,98 @@
 # Search-information-interface
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Search-information-interface
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # I- Objectif:
-faire in interface qui chercher une information donnée sur un ensemble du document textual , on construit 3 méthode de recherche d'information :
+faire in interface qui chercher une information donnée sur un ensemble du document textual , 
+* on construit 3 méthode de recherche d'information :
+                                                     1)recherche avec le nom de document.        ///name.java
+                                                     2)recherche avec le auteur de document.     ///author.java
+                                                     3)recherche avec le contunu de document.    ///word.java
+ * on a besion a une base de donnée.
+ * on a besion a une méthode pour accée au l'interface.
+ * on a besion a une méthode pour choisir la méthode de recherche.
+ * on a besion a une méthode pour indexer les document.            ///Indexer.java
+ * on a besion a une méthode pour recherche le document indexer.  ///Searcher.java
+ * on a besion a une méthode pour ouvrire.
+                                                  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                      
+
+# II- Base de donnée :
+base de donnée est essentiel pour la fonctionnement de project, et on peu facilement la connecter avec le projet .
+*avec cette méthode:
+
+                      Class.forName("org.sqlite.JDBC");
+                      Connection conn =DriverManager.getConnection("jdbc:sqlite:auteur.db"); 
+		      (avec <auteur.db> est la base de donnée).
+   
+*la base de donnée est construire de 3 tableau:
+  
+  # 1)login:
+  cette tableau et mis en place pour le accéc de utisateur (pour le moment le username est :1 et mot de passe est:1).
+  
+     CREATE TABLE "login" (
+	                               "ID"	INTEGER NOT NULL,
+	                               "USERNAME"	VARCHAR NOT NULL,
+	                               "PASSWORD"	VARCHAR NOT NULL,
+	                               PRIMARY KEY("ID" AUTOINCREMENT)
+                          )
+                       
+ # 2)document:
+ cette tableau et mis en place pour le stockage de (nom, auteur et le chamin) des documents.
+ 
+     CREATE TABLE "document" (
+		                              "ID"	INTEGER NOT NULL,
+		                              "Author"	VARCHAR NOT NULL,
+		                              "Name_document"	VARCHAR NOT NULL,
+		                              "Path_document"	VARCHAR NOT NULL,
+		                              PRIMARY KEY("ID" AUTOINCREMENT)
+   	                         )
+  
+  # 3)auteur:
+  cette tableau et mis en place pour le stockage de (nom,prenom et bio) des auteur des documents.
+  
+  
+     CREATE TABLE "auteur" (
+		                              "ID"	INTEGER NOT NULL,
+		                              "Family_name_author"	VARCHAR NOT NULL,
+		                              "Name_author"	VARCHAR NOT NULL,
+		                              "Bio_author"	VARCHAR NOT NULL,
+		                              PRIMARY KEY("ID" AUTOINCREMENT)
+                           )
+                           
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+# III- Accée au inteface:
+ pour entre a l'interface et fair des recherches il faux d'abord avoir la pemition , et la en parle sur la fenetre  Login.java,
+ qui vairifier ton compte(username et password) si tu existe sur la base de donnée ou non.
+ *avec cette requet:
+ 
+                    sql = "select ID,USERNAME,PASSWORD from login Where (USERNAME =? and PASSWORD =?)";
+                   try{
+                           int count =0;
+                           pst=conn.prepareStatement(sql);          
+                           pst.setString(1,txt_username.getText());//getText from txt_username and compare it to colome
+                           pst.setString(2,txt_password.getText());
+                           rs=pst.executeQuery();
+           
+si ton compte existe sur la base de donnée alors le fenetre de choix ovrire
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+# IV- Choisir le méthode de recherche:
+ *nous a crée 3 méthode de recherch :
+    
+      1)recherche avec le nom de document.
+      2)recherche avec le auteur de document.
+      3)recherche avec le contunu de document.
+      
+# il faux just choisire votre méthode:
+et il va ovrire pour ferre la recherche.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+# V- Méthode de recherche:                                                     
+                                                     
 
   # 1)recherche avec le nom de document:
   il fair la recherche du document avec le même nom donnée sur le bar de recherche, pour cette méthode on peu utilise cette requet:
@@ -40,87 +131,21 @@ faire in interface qui chercher une information donnée sur un ensemble du docum
                     mylist=tester.search(mot);(avec <mot> et le mot entre par le utilisateur).
 		    
   pour plus de information voir le fiche java word.java, Indexer.java, Searcher.java,LuceneConstants.java .
-  
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  
-# II- Base de donnée :
-base de donnée est essentiel pour la fonctionnement de project, et on peu facilement la connecter avec le projet .
-*avec cette méthode:
+-------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------
 
-                      Class.forName("org.sqlite.JDBC");
-                      Connection conn =DriverManager.getConnection("jdbc:sqlite:auteur.db"); 
-		      (avec <auteur.db> est la base de donnée).
-   
-*la base de donnée est construire de 3 tableau:
-  
-  # 1)login:
-  cette tableau et mis en place pour le accéc de utisateur (pour le moment le username est :1 et mot de passe est:1).
-  
-     CREATE TABLE "login" (
-	"ID"	INTEGER NOT NULL,
-	"USERNAME"	VARCHAR NOT NULL,
-	"PASSWORD"	VARCHAR NOT NULL,
-	PRIMARY KEY("ID" AUTOINCREMENT)
-    )
-    
-    
- ![tab1](https://user-images.githubusercontent.com/61596276/115488983-52cbb800-a253-11eb-996e-277ac64b67d7.PNG)
- # 2)document:
- cette tableau et mis en place pour le stockage de (nom, auteur et le chamin) des documents.
- 
-     CREATE TABLE "document" (
-	"ID"	INTEGER NOT NULL,
-	"Author"	VARCHAR NOT NULL,
-	"Name_document"	VARCHAR NOT NULL,
-	"Path_document"	VARCHAR NOT NULL,
-	PRIMARY KEY("ID" AUTOINCREMENT)
-    )
-  ![tab2](https://user-images.githubusercontent.com/61596276/115488878-257f0a00-a253-11eb-80cb-c86be4c9180c.PNG)
+# VI- Indextion:
+This class is used to index the raw data so that we can make it searchable using the Lucene library.
+Indexer.java
 
-  # 3)auteur:
-  cette tableau et mis en place pour le stockage de (nom,prenom et bio) des auteur des documents.
-  
-  
-     CREATE TABLE "auteur" (
-	"ID"	INTEGER NOT NULL,
-	"Family_name_author"	VARCHAR NOT NULL,
-	"Name_author"	VARCHAR NOT NULL,
-	"Bio_author"	VARCHAR NOT NULL,
-	PRIMARY KEY("ID" AUTOINCREMENT)
-     )
-  ![tab3](https://user-images.githubusercontent.com/61596276/115488901-2ca61800-a253-11eb-9fad-afb1457b029f.PNG)
+-------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  
-# III- Accée au inteface:
- pour entre a l'interface et fair des recherches il faux d'abord avoir la pemition , et la en parle sur la fenetre  Login.java,
- qui vairifier ton compte(username et password) si tu existe sur la base de donnée ou non.
- *avec cette requet:
- 
-                    sql = "select ID,USERNAME,PASSWORD from login Where (USERNAME =? and PASSWORD =?)";
-                   try{
-           int count =0;
-           pst=conn.prepareStatement(sql);          
-           pst.setString(1,txt_username.getText());//getText from txt_username and compare it to colome
-           pst.setString(2,txt_password.getText());
-           rs=pst.executeQuery();
-           
-si ton compte existe sur la base de donnée alors le fenetre de choix ovrire
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 
-# IV- Choisir le méthode de recherche:
- *nous a crée 3 méthode de recherch :
-    
-      1)recherche avec le nom de document.
-      2)recherche avec le auteur de document.
-      3)recherche avec le contunu de document.
-      
-# il faux just choisire votre méthode:
-et il va ovrire pour ferre la recherche.
+# VII- recherche :
+This class is used to search the indexes created by the Indexer to search the requested content.
+Searcher.java
 
- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------
 
-# V- Ovriture de document:
+# VIII- Ovriture de document:
 pour l'accée au document aprer la recherche en utilise la méthode de MouseClick pour la séléctionement de document qui nous vons ovrir.
 *et cette méthode pour l'ovriture de document:
          
@@ -140,7 +165,7 @@ pour l'accée au document aprer la recherche en utilise la méthode de MouseClic
   
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# VI- Capture de fenetre:
+# IX- Capture de fenetre:
 
 # 1)Login.java.
 
@@ -170,7 +195,3 @@ pour l'accée au document aprer la recherche en utilise la méthode de MouseClic
 ![word](https://user-images.githubusercontent.com/61596276/115131035-9a9cd600-9fec-11eb-8183-e9e4704e9213.PNG)
 ![word_resultat](https://user-images.githubusercontent.com/61596276/115154080-ee510300-a070-11eb-9da6-c8f718293e43.PNG)
 ![name_fail](https://user-images.githubusercontent.com/61596276/115154293-083f1580-a072-11eb-9459-eabc1b48674a.PNG)
-
-  
-  
-  
