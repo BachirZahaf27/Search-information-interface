@@ -189,23 +189,21 @@ public class Choice extends javax.swing.JFrame {
         this.dispose();
     }//GEN-LAST:event_jLabel1MouseClicked
 
-    private void nameActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_nameActionPerformed
+    private void nameActionPerformed(java.awt.event.ActionEvent evt) {
         // Search by name
         name n=new name();
         n.setVisible(true);
-    }//GEN-LAST:event_nameActionPerformed
-
-    private void authorActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_authorActionPerformed
+    }
+    private void authorActionPerformed(java.awt.event.ActionEvent evt) {
         // Search by author
         author a=new author();
         a.setVisible(true);
-    }//GEN-LAST:event_authorActionPerformed
-
-    private void wordActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_wordActionPerformed
+    }
+    private void wordActionPerformed(java.awt.event.ActionEvent evt) {
         // Search by word
         word w=new word();
         w.setVisible(true);
-    }//GEN-LAST:event_wordActionPerformed
+    }
 
     /**
      * @param args the command line arguments
