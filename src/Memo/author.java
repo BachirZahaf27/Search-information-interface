@@ -297,7 +297,7 @@ PreparedStatement stmt=null;
             }
         
         }
-    }//GEN-LAST:event_auteur_searchActionPerformed
+    }
 
     private void table_docMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_table_docMouseClicked
         // if you want to open the document
