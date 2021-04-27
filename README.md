@@ -52,6 +52,8 @@ base de donnée est essentiel pour la fonctionnement de project, et on peu facil
 ![tab2](https://user-images.githubusercontent.com/61596276/115490025-29ac2700-a255-11eb-811a-26001c041e01.PNG)
 ![tab2 2](https://user-images.githubusercontent.com/61596276/116198203-9760c300-a72d-11eb-9c89-546dc34c6470.PNG)
 ![tab2 3](https://user-images.githubusercontent.com/61596276/116198231-9d56a400-a72d-11eb-9f82-505c17f4f49c.PNG)
+[table.pdf](https://github.com/BachirZahaf27/Search-information-interface/files/6382858/table.pdf)
+
 
   # 3)auteur:
   cette tableau et mis en place pour le stockage de (nom,prenom et bio) des auteur des documents.
